@@ -7,6 +7,8 @@
 
 ```
 
+👨‍💻 Full-Stack Developer with @laravel, @vuejs, @dart-lang, @flutter, @docker, @kubernetes, @hashicorp
+
 ## Resume
 
 See my [resume][resume-url]
