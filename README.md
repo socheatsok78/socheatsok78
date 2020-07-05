@@ -11,9 +11,8 @@
 
 ## Resume
 
+- See my [resume][resume-url]
 - LinkedIn: [@socheatsok78][linkedin-url]
-
-See my [resume][resume-url]
 
 ## Socials
 
