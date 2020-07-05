@@ -11,13 +11,14 @@
 
 ## Resume
 
+- LinkedIn: [@socheatsok78][linkedin-url]
+
 See my [resume][resume-url]
 
 ## Socials
 
 - Twitter: [@socheatsok78][twitter-url]
 - Instagram: [@socheatsok78][instagram-url]
-- LinkedIn: [@socheatsok78][linkedin-url]
 
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
