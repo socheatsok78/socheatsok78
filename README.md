@@ -19,10 +19,6 @@ See my [resume][resume-url]
 - Instagram: [@socheatsok78][instagram-url]
 - LinkedIn: [@socheatsok78][linkedin-url]
 
-### Sources
-
-- Resume: [https://gist.github.com/socheatsok78/](https://gist.github.com/socheatsok78/94aa1fa313fa0558a05f8a3376ecab00)
-
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
 [twitter-url]: https://twitter.com/socheatsok78
