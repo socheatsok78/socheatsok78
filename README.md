@@ -9,7 +9,7 @@
 
 ## Hi there 👋
 
-I am 🤖 **human** and pronounce 😂 **He**.  
+I am 🤖 **human** and pronouns 😂 **He**.  
 I make weird stuff in ⭐️ [@github](https://github.com/socheatsok78) and publish 🤪 dumb projects.  
 I currently working as **Senior Frontend Developer** 🥳 at [@soramitsukhmer](https://github.com/soramitsukhmer).
 
