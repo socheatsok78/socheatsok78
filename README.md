@@ -7,7 +7,10 @@
 
 ```
 
-👨‍💻 Full-Stack Developer with @laravel, @vuejs, @dart-lang, @flutter, @docker, @kubernetes, @hashicorp
+Husband, 👨‍💻 Full-Stack Developer with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
+
+Frontend Developer at [@soramitsukhmer](https://github.com/soramitsukhmer) Khmer.
+Make weird stuff in @github and publish dumb projects.
 
 ## Resume
 
