@@ -7,9 +7,10 @@
 
 ```
 
-👨‍💻 Full-Stack Developer with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
+Frontend Developer at [@soramitsukhmer](https://github.com/soramitsukhmer).
 
-🌅 Frontend Developer at [@soramitsukhmer](https://github.com/soramitsukhmer).
+Full-Stack Developer with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
+
 Make weird stuff in [@github](https://github.com/socheatsok78) and publish dumb projects.
 
 ## Resume
