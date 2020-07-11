@@ -7,18 +7,18 @@
 
 ```
 
-Frontend Developer at [@soramitsukhmer](https://github.com/soramitsukhmer).
+## Hi there 👋
 
-Full-Stack Developer with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
+I currently working as **Frontend Developer** at [@soramitsukhmer](https://github.com/soramitsukhmer). I also make weird stuff in [@github](https://github.com/socheatsok78) and publish dumb projects.
 
-Make weird stuff in [@github](https://github.com/socheatsok78) and publish dumb projects.
+Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
 
-## Resume
+### Resume
 
 - See my [resume][resume-url]
 - LinkedIn: [@socheatsok78][linkedin-url]
 
-## Socials
+### Socials
 
 - Twitter: [@socheatsok78][twitter-url]
 - Instagram: [@socheatsok78][instagram-url]
