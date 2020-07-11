@@ -22,11 +22,15 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 
 ### Socials
 
+- Dev: [@socheatsok78][dev-url]
+- Stack Overflow: [@socheatsok78][stackoverflow-url]
 - Twitter: [@socheatsok78][twitter-url]
 - Instagram: [@socheatsok78][instagram-url]
 
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
+[dev-url]: https://dev.to/socheatsok78
+[stackoverflow-url]: https://stackoverflow.com/story/socheatsok78
 [twitter-url]: https://twitter.com/socheatsok78
 [instagram-url]: https://www.instagram.com/socheatsok78
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
