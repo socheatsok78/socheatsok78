@@ -11,7 +11,7 @@
 
 I currently working as **Senior Frontend Developer** at [@soramitsukhmer](https://github.com/soramitsukhmer). 
 
-I weird stuff in [@github](https://github.com/socheatsok78) and publish dumb projects. 
+I make weird stuff in [@github](https://github.com/socheatsok78) and publish dumb projects. I am **human** 🤖 and pronounce **He** 😂.
 
 Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vue), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp)
 
