@@ -26,6 +26,7 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 - Stack Overflow: [@socheatsok78][stackoverflow-url]
 - Twitter: [@socheatsok78][twitter-url]
 - Instagram: [@socheatsok78][instagram-url]
+- Vercel: [@socheatsok78][vercel-url]
 
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
@@ -34,3 +35,4 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 [twitter-url]: https://twitter.com/socheatsok78
 [instagram-url]: https://www.instagram.com/socheatsok78
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
+[vercel-url]: vercel.com/socheatsok78
