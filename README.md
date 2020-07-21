@@ -35,4 +35,4 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 [twitter-url]: https://twitter.com/socheatsok78
 [instagram-url]: https://www.instagram.com/socheatsok78
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
-[vercel-url]: vercel.com/socheatsok78
+[vercel-url]: https://vercel.com/socheatsok78
