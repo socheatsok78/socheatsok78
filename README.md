@@ -11,7 +11,7 @@
 
 I am 🤖 **human** and pronouns 😂 **He**.  
 I make weird stuff in ⭐️ [@github](https://github.com/socheatsok78) and publish 🤪 dumb projects.  
-I currently working as **Senior Frontend Developer** 🥳 at [@soramitsukhmer](https://github.com/soramitsukhmer).
+I currently working as **Senior DevOps Engineer** + **Senior Frontend Developer** 🥳 at [@soramitsukhmer](https://github.com/soramitsukhmer).
 
 Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@kubernetes](http://github.com/kubernetes), [@hashicorp](http://github.com/hashicorp), [@golang](https://github.com/golang)
 
