@@ -15,7 +15,12 @@ I currently working as **Senior DevOps Engineer** + **Senior Frontend Developer*
 
 Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.com/vuejs), [@dart-lang](http://github.com/dart-lang), [@flutter](http://github.com/flutter), [@docker](http://github.com/docker), [@hashicorp](http://github.com/hashicorp), [@golang](https://github.com/golang)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Socheat_Sok-blue?style=flat-square&logo=Linkedin&logoColor=white)][linkedin-url]
+
+#### Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Socheat_Sok-0072b1?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
+[![Twitter Badge](https://img.shields.io/badge/-@socheatsok78-00acee?style=flat&logo=Twitter&logoColor=white)][twitter-url]
+[![Stack Overflow Badge](https://img.shields.io/badge/-@socheatsok78-F58025?style=flat&logo=Stackoverflow&logoColor=white)][stackoverflow-url]
 
 ## What I do
 
@@ -43,22 +48,15 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
-### Resume
+### My publicly-auditable identity
 
-- See my [resume][resume-url]
-- LinkedIn: [@socheatsok78][linkedin-url]
-
-### Socials
-
-- Dev: [@socheatsok78][dev-url]
-- Stack Overflow: [@socheatsok78][stackoverflow-url]
-- Twitter: [@socheatsok78][twitter-url]
-- Instagram: [@socheatsok78][instagram-url]
+**Websie**: https://socheat.dev  
+**PGP Public Key**: [73E2 35BA B285 8AF5][keybase-public-key]
 
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
-[dev-url]: https://dev.to/socheatsok78
 [stackoverflow-url]: https://stackoverflow.com/story/socheatsok78
 [twitter-url]: https://twitter.com/socheatsok78
-[instagram-url]: https://www.instagram.com/socheatsok78
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
+[keybase-url]: https://keybase.io/andrewalex
+[keybase-public-key]: https://keybase.io/andrewalex/pgp_keys.asc
