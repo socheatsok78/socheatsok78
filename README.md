@@ -26,17 +26,24 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 
 #### Frontend
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart&logoColor=0175C2)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)
 
 #### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=white)
+
+#### Framework / Library
+
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)
 
 #### DevOps
 
