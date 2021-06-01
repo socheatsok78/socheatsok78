@@ -24,9 +24,9 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart&logoColor=0175C2)
+![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)
 
 #### Backend
 
