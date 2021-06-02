@@ -20,7 +20,8 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 
 [![Linkedin Badge](https://img.shields.io/badge/-Socheat_Sok-0072b1?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
 [![Twitter Badge](https://img.shields.io/badge/-@socheatsok78-00acee?style=flat&logo=Twitter&logoColor=white)][twitter-url]
-[![NPM Badge](https://img.shields.io/badge/-@andrewalex-CB3837?style=flat&logo=npm&logoColor=white)][npm-url]
+[![NPM andrewalex Badge](https://img.shields.io/badge/-@andrewalex-CB3837?style=flat&logo=npm&logoColor=white)][npm-andrewalex-url]
+[![NPM socheatsok78 Badge](https://img.shields.io/badge/-@socheatsok78-CB3837?style=flat&logo=npm&logoColor=white)][npm-socheatsok78-url]
 [![Packagist Badge](https://img.shields.io/badge/-@socheatsok78-F58025?style=flat&logo=packagist&logoColor=white)][packagist-url]
 [![Stack Overflow Badge](https://img.shields.io/badge/-@socheatsok78-F58025?style=flat&logo=Stackoverflow&logoColor=white)][stackoverflow-url]
 
@@ -69,5 +70,6 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
 [keybase-url]: https://keybase.io/andrewalex
 [keybase-public-key]: https://keybase.io/andrewalex/pgp_keys.asc
-[npm-url]: https://www.npmjs.com/~andrewalex
+[npm-andrewalex-url]: https://www.npmjs.com/~andrewalex
+[npm-socheatsok78-url]: https://www.npmjs.com/org/socheatsok78
 [packagist-url]: https://packagist.org/users/socheatsok78/
