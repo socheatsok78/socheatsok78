@@ -61,7 +61,7 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 ### My publicly-auditable identity
 
 **Websie**: https://socheat.dev  
-**PGP Public Key**: [73E2 35BA B285 8AF5][keybase-public-key]
+**PGP Public Key**: [3BDF 9934 2AB2 A23E][keybase-public-key]
 
 <!-- Links -->
 [resume-url]: https://registry.jsonresume.org/socheatsok78
