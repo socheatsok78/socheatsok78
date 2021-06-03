@@ -69,7 +69,7 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 [twitter-url]: https://twitter.com/socheatsok78
 [linkedin-url]: https://www.linkedin.com/in/socheatsok78
 [keybase-url]: https://keybase.io/andrewalex
-[keybase-public-key]: https://keybase.io/andrewalex/pgp_keys.asc
+[keybase-public-key]: https://keybase.io/socheatsok78/pgp_keys.asc
 [npm-andrewalex-url]: https://www.npmjs.com/~andrewalex
 [npm-socheatsok78-url]: https://www.npmjs.com/org/socheatsok78
 [packagist-url]: https://packagist.org/users/socheatsok78/
