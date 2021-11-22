@@ -42,6 +42,7 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 #### Framework / Library
 
 ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
+![Vitejs](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
