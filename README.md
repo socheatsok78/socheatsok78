@@ -37,7 +37,7 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 
 #### Framework / Library
 
