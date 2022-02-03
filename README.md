@@ -70,3 +70,10 @@ Experienced with [@laravel](http://github.com/laravel), [@vuejs](http://github.c
 [keybase-public-key]: https://keybase.io/socheatsok78/pgp_keys.asc
 [npm-socheatsok78-url]: https://www.npmjs.com/org/socheatsok78
 [packagist-url]: https://packagist.org/users/socheatsok78/
+
+---
+<!-- Stats -->
+<details>
+   <summary>Stats</summary>
+   <img src="https://visitor-badge.glitch.me/badge?page_id=socheatsok78.socheatsok78" alt="visitor">
+</details>
