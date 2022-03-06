@@ -16,7 +16,7 @@
 -->
 
 #### About 🌏
-- I am 🤖 **human** and pronouns 😂 **He**.
+- I am 🤖 **human** and pronouns 😂 **he/him**.
 - I ❤️ web technologies & systems languages.
 
 #### Work 🔭
