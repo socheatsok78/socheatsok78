@@ -16,8 +16,8 @@
 -->
 
 #### About 🌏
-- I am 🤖 **human** and pronouns 😂 **He**.  
-- I make weird stuff in ⭐️ [@github](https://github.com/socheatsok78) and publish dumb projects.
+- I am 🤖 **human** and pronouns 😂 **He**.
+- I ❤️ web technologies & systems languages.
 
 #### Work 🔭
 - Currently working as Senior Full-Stack Engineer at [Soramitsu](https://soramitsu.co.jp/kh/) Khmer.
