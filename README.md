@@ -43,32 +43,32 @@
 ## What I do
 
 #### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart&logoColor=0175C2)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com/)
+[![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart&logoColor=0175C2)](https://dart.dev/)
 
 #### Backend
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)
+[![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)](https://go.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 #### Framework / Library
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)
-![Vitejs](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)
+[![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)](https://webpack.js.org/)
+[![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)](https://vitejs.dev/)
+[![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logoColor=1867C0&logo=vuetify)](https://vuetifyjs.com/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)](https://laravel.com/)
+[![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter&logoColor=02569B)](https://flutter.dev/)
 
 #### DevOps
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=EE0000)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform&logoColor=7B42BC)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)
+[![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible&logoColor=EE0000)](https://www.ansible.com/)
+[![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform&logoColor=7B42BC)](https://www.terraform.io/)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)](https://www.heroku.com/)
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)](https://www.netlify.com/)
+[![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 <!-- Links -->
 [twitter-url]: https://twitter.com/socheatsok78
