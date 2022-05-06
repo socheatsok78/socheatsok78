@@ -20,8 +20,8 @@
 - I ❤️ web technologies & systems languages.
 
 #### Work 🔭
-- Currently working as Senior Full-Stack Engineer at [Soramitsu](https://soramitsu.co.jp/kh/) Khmer.
-- Previously Senior Full-Stack Developer at [Open Institute](https://open.org.kh/).
+- Currently working as `Lead Frontend Engineer` & `Senior Full-Stack Engineer` at [Soramitsu](https://soramitsu.co.jp/kh/) Khmer.
+- Previously `Senior Full-Stack Developer` at [Open Institute](https://open.org.kh/).
 
 #### Current Interests 🌱
 - **[Go](https://go.dev/)**
