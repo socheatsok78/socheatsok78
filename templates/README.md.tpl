@@ -3,9 +3,8 @@
    I'm <a href="#"><img src="assets/branding.svg" width="177" height="18"></a>
 </h3>
 
-> [!NOTE]
-> I'm taking sometime off for my 👶  
-> I'm maybe slow to response!
+> [!WARNING]
+> I'm taking sometime off for my 👶, I'm maybe slow to response!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
