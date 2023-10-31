@@ -4,8 +4,7 @@
 </h3>
 
 > [!NOTE]
-> I'm taking sometime off for my 👶
->
+> I'm taking sometime off for my 👶  
 > I'm maybe slow to response!
 
 #### 👷 Check out what I'm currently working on
