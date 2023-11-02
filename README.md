@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (1 day ago)
-- [YouMightNotNeedKubernetes/promagents](https://github.com/YouMightNotNeedKubernetes/promagents) - Docker Stack deployment for cAdvisor &amp; node-exporter. (1 day ago)
-- [YouMightNotNeedKubernetes/alertmanager](https://github.com/YouMightNotNeedKubernetes/alertmanager) - A high-availability alertmanager stack for Docker Swarm (1 day ago)
-- [YouMightNotNeedKubernetes/grafana-loki](https://github.com/YouMightNotNeedKubernetes/grafana-loki) - A high-availability Grafana Loki deployment for Docker Swarm (1 day ago)
-- [rediswarm/stack](https://github.com/rediswarm/stack) - A simple Docker Stack deployment of High availability with Redis Sentinel. (1 day ago)
+- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (today)
+- [YouMightNotNeedKubernetes/grafana-loki](https://github.com/YouMightNotNeedKubernetes/grafana-loki) - A high-availability Grafana Loki deployment for Docker Swarm (today)
+- [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (today)
+- [YouMightNotNeedKubernetes/grafana-mimir](https://github.com/YouMightNotNeedKubernetes/grafana-mimir) - A high-availability Grafana Mimir deployment for Docker Swarm (1 day ago)
+- [YouMightNotNeedKubernetes/rabbitmq](https://github.com/YouMightNotNeedKubernetes/rabbitmq) - A high-availability RabbitMQ deployment using Consul for Docker Swarm (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
