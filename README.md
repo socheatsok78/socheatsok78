@@ -8,11 +8,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (today)
-- [YouMightNotNeedKubernetes/grafana-mimir](https://github.com/YouMightNotNeedKubernetes/grafana-mimir) - A high-availability Grafana Mimir deployment for Docker Swarm (1 day ago)
-- [YouMightNotNeedKubernetes/alertmanager](https://github.com/YouMightNotNeedKubernetes/alertmanager) - A high-availability alertmanager stack for Docker Swarm (1 day ago)
-- [YouMightNotNeedKubernetes/grafana-tempo](https://github.com/YouMightNotNeedKubernetes/grafana-tempo) - A high-availability Grafana Tempo deployment for Docker Swarm (1 day ago)
-- [YouMightNotNeedKubernetes/grafana-loki](https://github.com/YouMightNotNeedKubernetes/grafana-loki) - A high-availability Grafana Loki deployment for Docker Swarm (1 day ago)
+- [chocolatefrappe/nginx](https://github.com/chocolatefrappe/nginx) - A customized template of the Official NGINX image with a configuration generated using nginxconfig.io. (1 day ago)
+- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (1 day ago)
+- [YouMightNotNeedKubernetes/grafana-mimir](https://github.com/YouMightNotNeedKubernetes/grafana-mimir) - A high-availability Grafana Mimir deployment for Docker Swarm (2 days ago)
+- [YouMightNotNeedKubernetes/alertmanager](https://github.com/YouMightNotNeedKubernetes/alertmanager) - A high-availability alertmanager stack for Docker Swarm (2 days ago)
+- [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
