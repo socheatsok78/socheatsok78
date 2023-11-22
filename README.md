@@ -8,19 +8,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [chocolatefrappe/nginx](https://github.com/chocolatefrappe/nginx) - A customized template of the Official NGINX image with a configuration generated using nginxconfig.io. (5 days ago)
-- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (5 days ago)
-- [YouMightNotNeedKubernetes/grafana-mimir](https://github.com/YouMightNotNeedKubernetes/grafana-mimir) - A high-availability Grafana Mimir deployment for Docker Swarm (6 days ago)
-- [YouMightNotNeedKubernetes/grafana-tempo](https://github.com/YouMightNotNeedKubernetes/grafana-tempo) - A high-availability Grafana Tempo deployment for Docker Swarm (6 days ago)
-- [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (6 days ago)
+- [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (1 day ago)
+- [chocolatefrappe/nginx](https://github.com/chocolatefrappe/nginx) - A customized template of the Official NGINX image with a configuration generated using nginxconfig.io. (6 days ago)
+- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (6 days ago)
+- [YouMightNotNeedKubernetes/grafana-mimir](https://github.com/YouMightNotNeedKubernetes/grafana-mimir) - A high-availability Grafana Mimir deployment for Docker Swarm (1 week ago)
+- [YouMightNotNeedKubernetes/alertmanager](https://github.com/YouMightNotNeedKubernetes/alertmanager) - A high-availability alertmanager stack for Docker Swarm (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/swarmtail](https://github.com/socheatsok78/swarmtail) - A custom built Promtail for Docker Swarm
 - [socheatsok78/libdatetime-ts](https://github.com/socheatsok78/libdatetime-ts) - A direct and simple solution for handling Date/Time event listeners
 - [socheatsok78/AggregatedAbortController](https://github.com/socheatsok78/AggregatedAbortController) - A extendable `AbortController` with link aggregation with existing `AbortController` or `AbortSignal`
 - [socheatsok78/signaltimer](https://github.com/socheatsok78/signaltimer) - A wrapper function for &#34;setInterval&#34; and &#34;setTimeout&#34; that uses &#34;AbortSignal&#34; as cancellation strategy
 - [socheatsok78/npm-git-submodules](https://github.com/socheatsok78/npm-git-submodules) - A NPM hook for fetching git submodules
-- [socheatsok78/s6-overlay-installer](https://github.com/socheatsok78/s6-overlay-installer) - Installer scripts for s6-overlay
 
 #### 🚀 Latest releases I've contributed to
 
