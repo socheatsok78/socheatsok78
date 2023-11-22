@@ -6,10 +6,6 @@
 > [!WARNING]
 > I'm taking sometime off for my 👶, I'm maybe slow to response!
 
-#### About 🌏
-- I am 🤖 **human** and pronouns 😂 **he/him**.
-- I ❤️ web technologies & systems languages.
-
 ## What I do
 
 #### Backend
