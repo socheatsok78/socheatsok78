@@ -10,15 +10,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server for proxying Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34;  scrape_configs) (today)
+- [YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide) - A documentation on how to get started with Docker Swarm Monitoring (1 day ago)
 - [YouMightNotNeedKubernetes/promtail](https://github.com/YouMightNotNeedKubernetes/promtail) - Docker Stack deployment for Grafana Loki&#39;s Promtail. (1 day ago)
-- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (6 days ago)
-- [chocolatefrappe/nginx](https://github.com/chocolatefrappe/nginx) - A customized template of the Official NGINX image with a configuration generated using nginxconfig.io. (6 days ago)
-- [YouMightNotNeedKubernetes/grafana-tempo](https://github.com/YouMightNotNeedKubernetes/grafana-tempo) - A high-availability Grafana Tempo deployment for Docker Swarm (1 week ago)
+- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs) (1 day ago)
+- [YouMightNotNeedKubernetes/grafana-tempo](https://github.com/YouMightNotNeedKubernetes/grafana-tempo) - A high-availability Grafana Tempo deployment for Docker Swarm (1 day ago)
+- [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server for proxying Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34;  scrape_configs)
+- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs)
 - [socheatsok78/swarmtail](https://github.com/socheatsok78/swarmtail) - A custom built Promtail for Docker Swarm
 - [socheatsok78/libdatetime-ts](https://github.com/socheatsok78/libdatetime-ts) - A direct and simple solution for handling Date/Time event listeners
 - [socheatsok78/AggregatedAbortController](https://github.com/socheatsok78/AggregatedAbortController) - A extendable `AbortController` with link aggregation with existing `AbortController` or `AbortSignal`
