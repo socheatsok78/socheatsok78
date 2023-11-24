@@ -10,10 +10,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/swarmtail](https://github.com/socheatsok78/swarmtail) - A custom built Promtail for Docker Swarm (today)
 - [YouMightNotNeedKubernetes/dockerswarm-monitoring-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide) - A overview of Observability, Telemetry and Monitoring platform. (today)
-- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs) (1 day ago)
-- [YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-for-scale-guide) - A documentation on how to get started with Docker Swarm Monitoring (1 day ago)
 - [YouMightNotNeedKubernetes/grafana](https://github.com/YouMightNotNeedKubernetes/grafana) - Docker Stack deployment for Grafana&#39;s Dashboard. (1 day ago)
+- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs) (1 day ago)
 - [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
