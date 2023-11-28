@@ -7,11 +7,13 @@
 > I'm taking sometime off for my 👶, I'm maybe slow to response!
 
 ---
+### My publicly-auditable identity
+   - **PGP Public Key**: [3BDF 9934 2AB2 A23E][https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index]
 
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/swarmtail](https://github.com/socheatsok78/swarmtail) - A custom built Promtail for Docker Swarm (4 days ago)
-- [YouMightNotNeedKubernetes/dockerswarm-monitoring-guide](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring-guide) - A overview of Observability, Telemetry and Monitoring platform. (4 days ago)
+- [YouMightNotNeedKubernetes/dockerswarm-monitoring](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring) - A overview of Observability, Telemetry and Monitoring platform. (4 days ago)
 - [YouMightNotNeedKubernetes/grafana](https://github.com/YouMightNotNeedKubernetes/grafana) - Docker Stack deployment for Grafana&#39;s Dashboard. (5 days ago)
 - [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs) (5 days ago)
 - [YouMightNotNeedKubernetes/prometheus](https://github.com/YouMightNotNeedKubernetes/prometheus) - A high-availability prometheus stack for Docker Swarm (5 days ago)
