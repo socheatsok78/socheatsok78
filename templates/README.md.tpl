@@ -7,6 +7,8 @@
 > I'm taking sometime off for my 👶, I'm maybe slow to response!
 
 ---
+### My publicly-auditable identity
+   - **PGP Public Key**: [3BDF 9934 2AB2 A23E][https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index]
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
