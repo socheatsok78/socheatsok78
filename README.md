@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78-lab/dockerswarm_dns_server](https://github.com/socheatsok78-lab/dockerswarm_dns_server) - [WIP] A simple DNS server for Docker Swarm with Service Discovery. (1 day ago)
 - [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (1 week ago)
 - [socheatsok78/swarmtail](https://github.com/socheatsok78/swarmtail) - A custom built Promtail for Docker Swarm (2 weeks ago)
 - [YouMightNotNeedKubernetes/dockerswarm-monitoring](https://github.com/YouMightNotNeedKubernetes/dockerswarm-monitoring) - A overview of Observability, Telemetry and Monitoring platform. (2 weeks ago)
 - [YouMightNotNeedKubernetes/grafana](https://github.com/YouMightNotNeedKubernetes/grafana) - Docker Stack deployment for Grafana&#39;s Dashboard. (2 weeks ago)
-- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs) (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
