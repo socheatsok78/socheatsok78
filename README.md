@@ -9,7 +9,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/dockerswarm_dns_server](https://github.com/socheatsok78-lab/dockerswarm_dns_server) - [WIP] A simple DNS server for Docker Swarm with Service Discovery. (5 days ago)
+- [socheatsok78-lab/dockerswarm_dns_server](https://github.com/socheatsok78-lab/dockerswarm_dns_server) - [WIP] A simple DNS server for Docker Swarm with Service Discovery. (6 days ago)
 - [libreofficedocker/libreoffice-unoserver](https://github.com/libreofficedocker/libreoffice-unoserver) - A packaged unoserver with REST APIs using Libreoffice in Docker (1 week ago)
 - [libreofficedocker/alpine](https://github.com/libreofficedocker/alpine) - A ready-to-go Libreoffice in Docker built on top of Alpine releases (1 week ago)
 - [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (2 weeks ago)
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) ([v1.0.0](https://github.com/socheatsok78/dockerswarm_sd_server/releases/tag/v1.0.0), 3 weeks ago) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs)
+- [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) ([v1.0.0](https://github.com/socheatsok78/dockerswarm_sd_server/releases/tag/v1.0.0), 4 weeks ago) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v2.3](https://github.com/flutter-actions/setup-flutter/releases/tag/v2.3), 2 months ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/s6-overlay-nginx-module](https://github.com/socheatsok78/s6-overlay-nginx-module) ([v0.2.2](https://github.com/socheatsok78/s6-overlay-nginx-module/releases/tag/v0.2.2), 2 months ago) - nginx module for s6 overlay v3
 - [soramitsukhmer-lab/ansible-role-docker-swarm](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm) ([1.1.0](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm/releases/tag/1.1.0), 2 months ago) - Ansible Role - Docker Swarm
