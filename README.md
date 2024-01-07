@@ -9,8 +9,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [chocolatefrappe/ssh-proxy-server](https://github.com/chocolatefrappe/ssh-proxy-server) - A SSH Server tuned for proxying traffic, to be uses with ssh-proxy-client. (today)
-- [chocolatefrappe/ssh-proxy-client](https://github.com/chocolatefrappe/ssh-proxy-client) - A SSH Client for configure port forwarding as a container. (today)
+- [chocolatefrappe/ssh-proxy-server](https://github.com/chocolatefrappe/ssh-proxy-server) - A SSH Server tuned for proxying traffic, to be uses with ssh-proxy-client. (1 day ago)
+- [chocolatefrappe/ssh-proxy-client](https://github.com/chocolatefrappe/ssh-proxy-client) - A SSH Client for configure port forwarding as a container. (1 day ago)
 - [socheatsok78-lab/dockerswarm_dns_server](https://github.com/socheatsok78-lab/dockerswarm_dns_server) - [WIP] A simple DNS server for Docker Swarm with Service Discovery. (3 weeks ago)
 - [libreofficedocker/alpine](https://github.com/libreofficedocker/alpine) - A ready-to-go Libreoffice in Docker built on top of Alpine releases (3 weeks ago)
 - [libreofficedocker/libreoffice-unoserver](https://github.com/libreofficedocker/libreoffice-unoserver) - A packaged unoserver with REST APIs using Libreoffice in Docker (3 weeks ago)
