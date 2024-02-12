@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - A pre-built NGINX modules for container (1 week ago)
-- [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (1 week ago)
 - [socheatsok78/khmer-unicode-keyboard-for-macos](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos) - ⌨  Khmer Unicode for MacOS build using standard NiDA keyboard layout (1 week ago)
-- [chocolatefrappe/ssh-proxy-client](https://github.com/chocolatefrappe/ssh-proxy-client) - A SSH Client for configure port forwarding as a container. (3 weeks ago)
-- [chocolatefrappe/ssh-proxy-server](https://github.com/chocolatefrappe/ssh-proxy-server) - A SSH Server tuned for proxying traffic, to be uses with ssh-proxy-client. (3 weeks ago)
+- [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (1 week ago)
+- [chocolatefrappe/ssh-proxy-server](https://github.com/chocolatefrappe/ssh-proxy-server) - A SSH Server tuned for proxying traffic, to be uses with ssh-proxy-client. (4 weeks ago)
+- [chocolatefrappe/ssh-proxy-client](https://github.com/chocolatefrappe/ssh-proxy-client) - A SSH Client for configure port forwarding as a container. (4 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
