@@ -25,11 +25,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.16.1](https://github.com/hashicorp/vault/releases/tag/v1.16.1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [socheatsok78/khmer-unicode-keyboard-for-macos](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos) ([v2.0.0](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos/releases/tag/v2.0.0), 2 months ago) - ⌨  Khmer Unicode for MacOS build using standard NiDA keyboard layout
 - [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) ([v1.0.0](https://github.com/socheatsok78/dockerswarm_sd_server/releases/tag/v1.0.0), 4 months ago) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v2.3](https://github.com/flutter-actions/setup-flutter/releases/tag/v2.3), 5 months ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/s6-overlay-nginx-module](https://github.com/socheatsok78/s6-overlay-nginx-module) ([v0.2.2](https://github.com/socheatsok78/s6-overlay-nginx-module/releases/tag/v0.2.2), 5 months ago) - nginx module for s6 overlay v3
-- [soramitsukhmer-lab/ansible-role-docker-swarm](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm) ([1.1.0](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm/releases/tag/1.1.0), 6 months ago) - Ansible Role - Docker Swarm
 
 #### My publicly-auditable identity
    - **PGP Public Key**: [3BDF 9934 2AB2 A23E](https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index)
