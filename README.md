@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [soramitsukhmer-lab/hashicorp-vault-demo](https://github.com/soramitsukhmer-lab/hashicorp-vault-demo) - HashiCorp Vault for Demo (1 day ago)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
+- [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (1 day ago)
+- [socheatsok78-lab/swarmshicorp-vault](https://github.com/socheatsok78-lab/swarmshicorp-vault) - A wrapper for HashiCorp Vault to aid deployment inside Docker Swarm. (1 day ago)
 - [libreofficedocker/libreoffice-unoserver](https://github.com/libreofficedocker/libreoffice-unoserver) - A packaged unoserver with REST APIs using Libreoffice in Docker (1 week ago)
 - [libreofficedocker/alpine](https://github.com/libreofficedocker/alpine) - A ready-to-go Libreoffice in Docker built on top of Alpine releases (1 week ago)
-- [subtle-js/storage](https://github.com/subtle-js/storage) - The `Storage` interface provides a set of methods to perform storage operations. (1 week ago)
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.16.2](https://github.com/hashicorp/vault/releases/tag/v1.16.2), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.16.2](https://github.com/hashicorp/vault/releases/tag/v1.16.2), 3 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v3.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v3.0), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/khmer-unicode-keyboard-for-macos](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos) ([v2.0.0](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos/releases/tag/v2.0.0), 2 months ago) - ⌨  Khmer Unicode for MacOS build using standard NiDA keyboard layout
 - [socheatsok78/dockerswarm_sd_server](https://github.com/socheatsok78/dockerswarm_sd_server) ([v1.0.0](https://github.com/socheatsok78/dockerswarm_sd_server/releases/tag/v1.0.0), 5 months ago) - A simple server provide proxying to Docker Engine API for using with Prometheus/Promtail (&#34;dockerswarm_sd_configs&#34; scrape_configs)
