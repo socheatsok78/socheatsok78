@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/swarmshicorp-vault](https://github.com/socheatsok78-lab/swarmshicorp-vault) - A wrapper for HashiCorp Vault to aid deployment inside Docker Swarm. (2 days ago)
-- [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (4 days ago)
+- [socheatsok78-lab/swarmshicorp-vault](https://github.com/socheatsok78-lab/swarmshicorp-vault) - A wrapper for HashiCorp Vault to aid deployment inside Docker Swarm. (1 day ago)
+- [socheatsok78-lab/swarmshicorp-consul](https://github.com/socheatsok78-lab/swarmshicorp-consul) - A wrapper for HashiCorp Consul to aid deployment inside Docker Swarm. (1 day ago)
+- [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (5 days ago)
 - [actions-matrix/github-release-matrix-action](https://github.com/actions-matrix/github-release-matrix-action) - GitHub Action to generate matrix from GitHub&#39;s repository releases via GitHub API. (1 week ago)
 - [actions-matrix/alpine-matrix-action](https://github.com/actions-matrix/alpine-matrix-action) - GitHub Action to generate Alpine releases matrix (1 week ago)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
