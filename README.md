@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/swarmshicorp-consul](https://github.com/socheatsok78-lab/swarmshicorp-consul) - A wrapper for HashiCorp Consul to aid deployment inside Docker Swarm. (1 day ago)
-- [socheatsok78-lab/swarmshicorp-vault](https://github.com/socheatsok78-lab/swarmshicorp-vault) - A wrapper for HashiCorp Vault to aid deployment inside Docker Swarm. (4 days ago)
+- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (1 day ago)
+- [socheatsok78-lab/swarmshicorp-consul](https://github.com/socheatsok78-lab/swarmshicorp-consul) - A wrapper for HashiCorp Consul to aid deployment inside Docker Swarm. (2 days ago)
+- [socheatsok78-lab/swarmshicorp-vault](https://github.com/socheatsok78-lab/swarmshicorp-vault) - A wrapper for HashiCorp Vault to aid deployment inside Docker Swarm. (5 days ago)
 - [socheatsok78-lab/soramitsukhmer-deploy-shell](https://github.com/socheatsok78-lab/soramitsukhmer-deploy-shell) - A virtual deployment shell for DevOps for @soramitsukhmer (1 week ago)
 - [actions-matrix/github-release-matrix-action](https://github.com/actions-matrix/github-release-matrix-action) - GitHub Action to generate matrix from GitHub&#39;s repository releases via GitHub API. (1 week ago)
-- [actions-matrix/alpine-matrix-action](https://github.com/actions-matrix/alpine-matrix-action) - GitHub Action to generate Alpine releases matrix (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
