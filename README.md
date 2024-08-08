@@ -9,10 +9,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/grafana-snapshot-gateway](https://github.com/swarmlibs/grafana-snapshot-gateway) - A snapshot gateway for self-hosted Grafana server (1 day ago)
+- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (1 day ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (1 day ago)
-- [swarmlibs/grafana-provisioning-config-reloader](https://github.com/swarmlibs/grafana-provisioning-config-reloader) - Automatically monitor and reloads the Grafana provisioning config files (6 days ago)
-- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (6 days ago)
+- [swarmlibs/grafana-snapshot-gateway](https://github.com/swarmlibs/grafana-snapshot-gateway) - A snapshot gateway for self-hosted Grafana server (1 day ago)
+- [swarmlibs/grafana-provisioning-config-reloader](https://github.com/swarmlibs/grafana-provisioning-config-reloader) - Automatically monitor and reloads the Grafana provisioning config files (1 week ago)
 - [swarmlibs/hashicorp-vault-stack](https://github.com/swarmlibs/hashicorp-vault-stack) - A docker stack deployment for HashiCorp Vault (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.17.2](https://github.com/hashicorp/vault/releases/tag/v1.17.2), 4 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.17.3](https://github.com/hashicorp/vault/releases/tag/v1.17.3), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [soramitsukhmer-lab/ansible-role-docker-swarm](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm) ([1.1.1](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm/releases/tag/1.1.1), 2 months ago) - Ansible Role - Docker Swarm
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 2 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 2 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
