@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/dockerswarm-monitoring-stack](https://github.com/swarmlibs/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (today)
-- [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (1 day ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (1 day ago)
-- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (2 days ago)
-- [swarmlibs/dockerswarm-monitoring-guide](https://github.com/swarmlibs/dockerswarm-monitoring-guide) - A comprehensive guide for collecting, and exporting telemetry data (metrics, logs, and traces) from Docker Swarm environment. (2 days ago)
+- [soramitsukhmer-lab/dockerswarm-monitoring-stack](https://github.com/soramitsukhmer-lab/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (1 day ago)
+- [swarmlibs/dockerswarm-monitoring-stack](https://github.com/swarmlibs/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (1 day ago)
+- [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (1 day ago)
+- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
