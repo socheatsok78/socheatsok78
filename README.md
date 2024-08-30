@@ -9,8 +9,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/dockerswarm-monitoring-stack](https://github.com/swarmlibs/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (1 week ago)
 - [soramitsukhmer-lab/dockerswarm-monitoring-stack](https://github.com/soramitsukhmer-lab/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (1 week ago)
+- [swarmlibs/dockerswarm-monitoring-stack](https://github.com/swarmlibs/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (1 week ago)
 - [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (1 week ago)
 - [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (1 week ago)
 - [swarmlibs/hashicorp-vault-stack](https://github.com/swarmlibs/hashicorp-vault-stack) - A docker stack deployment for HashiCorp Vault (1 week ago)
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.17.3](https://github.com/hashicorp/vault/releases/tag/v1.17.3), 3 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.17.4](https://github.com/hashicorp/vault/releases/tag/v1.17.4), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [soramitsukhmer-lab/ansible-role-docker-swarm](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm) ([1.1.1](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm/releases/tag/1.1.1), 2 months ago) - Ansible Role - Docker Swarm
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 2 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 3 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
