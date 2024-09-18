@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router for Docker Swarm (4 days ago)
-- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (5 days ago)
+- [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router for Docker Swarm (5 days ago)
+- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (6 days ago)
 - [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (1 week ago)
 - [socheatsok78-lab/spring-buildx-bake](https://github.com/socheatsok78-lab/spring-buildx-bake) -  (1 week ago)
-- [soramitsukhmer-lab/dockerswarm-monitoring-stack](https://github.com/soramitsukhmer-lab/dockerswarm-monitoring-stack) - A simple one-click deployment of a `promstack` and `logstack` for Docker Swarm cluster. (2 weeks ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
