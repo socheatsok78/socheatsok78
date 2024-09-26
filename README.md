@@ -9,10 +9,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (today)
-- [socheatsok78/.github](https://github.com/socheatsok78/.github) - Community health files and reusable workflows for the @socheatsok78 (1 day ago)
-- [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router for Docker Swarm (6 days ago)
-- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (6 days ago)
+- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (1 day ago)
+- [socheatsok78/.github](https://github.com/socheatsok78/.github) - Community health files and reusable workflows for the @socheatsok78 (2 days ago)
+- [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router for Docker Swarm (1 week ago)
+- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (1 week ago)
 - [chocolatefrappe/ssh-proxy-server](https://github.com/chocolatefrappe/ssh-proxy-server) - A SSH Server tuned for proxying traffic, to be uses with ssh-proxy-client. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.18.0-rc1), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.17.6](https://github.com/hashicorp/vault/releases/tag/v1.17.6), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [soramitsukhmer-lab/ansible-role-docker-swarm](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm) ([1.1.1](https://github.com/soramitsukhmer-lab/ansible-role-docker-swarm/releases/tag/1.1.1), 3 months ago) - Ansible Role - Docker Swarm
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 3 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 3 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
