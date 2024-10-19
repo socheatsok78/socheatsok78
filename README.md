@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/ansible-role-essentials](https://github.com/socheatsok78-lab/ansible-role-essentials) - Ansible Role - Essentials (today)
-- [socheatsok78/semaphore-cli](https://github.com/socheatsok78/semaphore-cli) - A backup and restore tool for Semaphore CI (4 days ago)
+- [socheatsok78-lab/ansible-role-unsafe-pip](https://github.com/socheatsok78-lab/ansible-role-unsafe-pip) - Ansible Role: Unsafe Pip (for Python) (1 day ago)
+- [socheatsok78-lab/ansible-role-essentials](https://github.com/socheatsok78-lab/ansible-role-essentials) - Ansible Role - Essentials (1 day ago)
+- [socheatsok78/semaphore-cli](https://github.com/socheatsok78/semaphore-cli) - A backup and restore tool for Semaphore CI (5 days ago)
 - [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (1 week ago)
 - [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router for Docker Swarm (1 week ago)
-- [socheatsok78/.github](https://github.com/socheatsok78/.github) - Community health files and reusable workflows for the @socheatsok78 (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
