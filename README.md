@@ -9,10 +9,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/portainer-template-server](https://github.com/swarmlibs/portainer-template-server) - A lightweight Portainer template server (3 days ago)
-- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (4 days ago)
-- [swarmlibs/stacks](https://github.com/swarmlibs/stacks) - A collection of Docker Stack template files for various services. (5 days ago)
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (6 days ago)
+- [swarmlibs/portainer-template-server](https://github.com/swarmlibs/portainer-template-server) - A lightweight Portainer template server (4 days ago)
+- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (5 days ago)
+- [swarmlibs/stacks](https://github.com/swarmlibs/stacks) - A collection of Docker Stack template files for various services. (6 days ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (1 week ago)
 - [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router with LoadBalancer using HAProxy for Docker Swarm. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.1](https://github.com/hashicorp/vault/releases/tag/v1.18.1), 6 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.1](https://github.com/hashicorp/vault/releases/tag/v1.18.1), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 5 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 5 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) ([v1.0](https://github.com/flutter-actions/setup-fvm/releases/tag/v1.0), 5 months ago) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions.
