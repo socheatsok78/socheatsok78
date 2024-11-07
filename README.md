@@ -9,9 +9,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/portainer-template-server](https://github.com/swarmlibs/portainer-template-server) - A lightweight Portainer template server (4 days ago)
-- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (5 days ago)
-- [swarmlibs/stacks](https://github.com/swarmlibs/stacks) - A collection of Docker Stack template files for various services. (6 days ago)
+- [swarmlibs/portainer-template-server](https://github.com/swarmlibs/portainer-template-server) - A lightweight Portainer template server (5 days ago)
+- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (6 days ago)
+- [swarmlibs/stacks](https://github.com/swarmlibs/stacks) - A collection of Docker Stack template files for various services. (1 week ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, Promtail, cAdvisor, Node exporter and Blackbox prober exporter) (1 week ago)
 - [swarmlibs/traefik-ingress](https://github.com/swarmlibs/traefik-ingress) - An ingress service using Traefik Edge Router with LoadBalancer using HAProxy for Docker Swarm. (1 week ago)
 
