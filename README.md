@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (5 days ago)
-- [socheatsok78-lab/ansible-role-docker-stack-portainer](https://github.com/socheatsok78-lab/ansible-role-docker-stack-portainer) - Ansible Role - Docker Stack for Portainer (5 days ago)
-- [swarmlibs/portainer-template-extras](https://github.com/swarmlibs/portainer-template-extras) - This repository hosts the templates (Extra Apps Templates) definitions for Portainer. (5 days ago)
-- [swarmlibs/dockerstack-schema](https://github.com/swarmlibs/dockerstack-schema) - The custom JSON Schema for Docker Stack (6 days ago)
-- [socheatsok78/s6-overlay-distribution](https://github.com/socheatsok78/s6-overlay-distribution) - A container image distribution of s6-overlay using an explicitly empty image, especially for building images FROM scratch. (1 week ago)
+- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (today)
+- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (6 days ago)
+- [socheatsok78-lab/ansible-role-docker-stack-portainer](https://github.com/socheatsok78-lab/ansible-role-docker-stack-portainer) - Ansible Role - Docker Stack for Portainer (6 days ago)
+- [swarmlibs/portainer-template-extras](https://github.com/swarmlibs/portainer-template-extras) - This repository hosts the templates (Extra Apps Templates) definitions for Portainer. (6 days ago)
+- [swarmlibs/dockerstack-schema](https://github.com/swarmlibs/dockerstack-schema) - The custom JSON Schema for Docker Stack (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
