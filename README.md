@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (1 day ago)
-- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (1 week ago)
+- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (1 day ago)
+- [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (2 days ago)
 - [socheatsok78-lab/ansible-role-docker-stack-portainer](https://github.com/socheatsok78-lab/ansible-role-docker-stack-portainer) - Ansible Role - Docker Stack for Portainer (1 week ago)
 - [swarmlibs/portainer-template-extras](https://github.com/swarmlibs/portainer-template-extras) - This repository hosts the templates (Extra Apps Templates) definitions for Portainer. (1 week ago)
-- [swarmlibs/dockerstack-schema](https://github.com/swarmlibs/dockerstack-schema) - The custom JSON Schema for Docker Stack (1 week ago)
+- [swarmlibs/portainer-templates](https://github.com/swarmlibs/portainer-templates) - This repository hosts the templates (Apps Templates) definitions for Portainer. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
