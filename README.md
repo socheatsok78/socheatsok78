@@ -9,9 +9,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (1 day ago)
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 days ago)
-- [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (2 days ago)
+- [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (2 days ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (3 days ago)
+- [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (3 days ago)
 - [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (1 week ago)
 - [swarmlibs/swarmlibs](https://github.com/swarmlibs/swarmlibs) - This stack provided necessary services for other stacks operate. (1 week ago)
 
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 6 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 5 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 6 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) ([v1.0](https://github.com/flutter-actions/setup-fvm/releases/tag/v1.0), 6 months ago) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions.
