@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 1 week ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 6 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 6 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) ([v1.0](https://github.com/flutter-actions/setup-fvm/releases/tag/v1.0), 6 months ago) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions.
