@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (1 day ago)
+- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (1 day ago)
 - [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (1 week ago)
 - [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (1 week ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (1 week ago)
-- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
