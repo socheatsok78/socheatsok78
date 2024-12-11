@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (4 days ago)
-- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (4 days ago)
+- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (5 days ago)
+- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (5 days ago)
 - [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (2 weeks ago)
-- [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (2 weeks ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 weeks ago)
+- [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
