@@ -9,8 +9,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (5 days ago)
-- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (5 days ago)
+- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (6 days ago)
+- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (6 days ago)
 - [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (2 weeks ago)
 - [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 weeks ago)
 - [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (2 weeks ago)
@@ -25,11 +25,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 2 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 3 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 6 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 6 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) ([v1.0](https://github.com/flutter-actions/setup-fvm/releases/tag/v1.0), 6 months ago) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions.
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v3.6](https://github.com/flutter-actions/setup-flutter/releases/tag/v3.6), 6 months ago) - This GitHub Action installs and setup of a Flutter SDK
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v3.6](https://github.com/flutter-actions/setup-flutter/releases/tag/v3.6), 7 months ago) - This GitHub Action installs and setup of a Flutter SDK
 
 #### My publicly-auditable identity
    - **PGP Public Key**: [3BDF 9934 2AB2 A23E](https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index)
