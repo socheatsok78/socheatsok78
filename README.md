@@ -9,19 +9,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (6 days ago)
-- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (6 days ago)
+- [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (1 week ago)
+- [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (1 week ago)
 - [swarmlibs/promstack-compose-support](https://github.com/swarmlibs/promstack-compose-support) - A Docker Compose support stack for Promstack (2 weeks ago)
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 weeks ago)
 - [swarmlibs/promstack-unattended-installer](https://github.com/swarmlibs/promstack-unattended-installer) - An unattended installer for `promstack` stack. (2 weeks ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/sentry-tunnel](https://github.com/socheatsok78/sentry-tunnel) - A tunnel is an HTTP endpoint that acts as a proxy between Sentry and your application.
 - [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl.
 - [socheatsok78/s6-overlay-distribution](https://github.com/socheatsok78/s6-overlay-distribution) - A container image distribution of s6-overlay using an explicitly empty image, especially for building images FROM scratch.
 - [socheatsok78/semaphore-cli](https://github.com/socheatsok78/semaphore-cli) - A backup and restore tool for Semaphore CI
 - [socheatsok78/docker-expose](https://github.com/socheatsok78/docker-expose) - A custom built container image for the Expose tunneling service.
-- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`.
 
 #### 🚀 Latest releases I've contributed to
 
