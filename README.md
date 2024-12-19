@@ -9,9 +9,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (2 days ago)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (5 days ago)
-- [flutter-actions/.github](https://github.com/flutter-actions/.github) - The `flutter-actions` organization&#39;s profile (5 days ago)
+- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (3 days ago)
+- [flutter-actions/.github](https://github.com/flutter-actions/.github) - The `flutter-actions` organization&#39;s profile (6 days ago)
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (6 days ago)
 - [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (1 week ago)
 - [swarmlibs/prometheus-config-provider](https://github.com/swarmlibs/prometheus-config-provider) - This is a simple tool that reads the Docker API and generates Prometheus scrape configs from Docker configs. (1 week ago)
 
@@ -25,9 +25,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 2 days ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 5 days ago) - This GitHub Action installs and setup of a Flutter SDK
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.2](https://github.com/hashicorp/vault/releases/tag/v1.18.2), 3 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 3 days ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 6 days ago) - This GitHub Action installs and setup of a Flutter SDK
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 6 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 6 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
 
