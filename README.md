@@ -9,7 +9,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (4 days ago)
+- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (5 days ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
 - [flutter-actions/.github](https://github.com/flutter-actions/.github) - The `flutter-actions` organization&#39;s profile (1 week ago)
 - [swarmlibs/promstack-housekeeping-agent](https://github.com/swarmlibs/promstack-housekeeping-agent) - A housekeeping agent for removing unused/out-dated Promstack config objects and Prometheus scrape configs on an interval. (2 weeks ago)
@@ -25,8 +25,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 2 days ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 4 days ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 3 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 5 days ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [flutter-actions/pubspec-matrix-action](https://github.com/flutter-actions/pubspec-matrix-action) ([v1.3](https://github.com/flutter-actions/pubspec-matrix-action/releases/tag/v1.3), 6 months ago) - This GitHub Action generates a matrix of Dart and Flutter SDK versions from a pubspec.yaml file.
 - [actions-matrix/release-matrix-action](https://github.com/actions-matrix/release-matrix-action) ([v1.0.6](https://github.com/actions-matrix/release-matrix-action/releases/tag/v1.0.6), 6 months ago) - GitHub Action to generate matrix using &#34;endoflife-date/release-data&#34; dataset
