@@ -12,8 +12,8 @@
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (1 day ago)
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A tunnel is an HTTP endpoint that acts as a proxy between Sentry and your application. (1 week ago)
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev (2 weeks ago)
-- [flutter-actions/.github](https://github.com/flutter-actions/.github) - The `flutter-actions` organization&#39;s profile (3 weeks ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (3 weeks ago)
+- [flutter-actions/.github](https://github.com/flutter-actions/.github) - The `flutter-actions` organization&#39;s profile (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
