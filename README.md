@@ -10,10 +10,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - A pre-built NGINX modules for container (1 day ago)
-- [soramitsukhmer-lab/sentry-metadata-action](https://github.com/soramitsukhmer-lab/sentry-metadata-action) - Sentry Metadata Action for Docker Buildx Bake (3 days ago)
-- [dockerbakery/bake-digests-action](https://github.com/dockerbakery/bake-digests-action) - Generate a list of container image digests from &#34;docker/bake-action&#34; metadata output (1 week ago)
+- [soramitsukhmer-lab/sentry-metadata-action](https://github.com/soramitsukhmer-lab/sentry-metadata-action) - Sentry Metadata Action for Docker Buildx Bake (4 days ago)
 - [socheatsok78/khmer-unicode-keyboard-for-macos](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos) - ⌨  Khmer Unicode for MacOS build using standard NiDA keyboard layout (1 week ago)
-- [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (1 week ago)
+- [dockerbakery/bake-digests-action](https://github.com/dockerbakery/bake-digests-action) - Generate a list of container image digests from &#34;docker/bake-action&#34; metadata output (1 week ago)
+- [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 4 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 1 month ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 1 month ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 1 month ago) - This GitHub Action installs and setup of a Flutter SDK
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.36](https://github.com/cooperspencer/gickup/releases/tag/v0.10.36), 4 months ago)
