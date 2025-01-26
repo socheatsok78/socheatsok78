@@ -9,7 +9,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) - Gradle Metadata Action for Docker Buildx Bake (1 day ago)
+- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) - Gradle Metadata Action for Docker Buildx Bake (2 days ago)
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - A pre-built NGINX modules for container (1 week ago)
 - [soramitsukhmer-lab/sentry-metadata-action](https://github.com/soramitsukhmer-lab/sentry-metadata-action) - Sentry Metadata Action for Docker Buildx Bake (1 week ago)
 - [dockerbakery/bake-digests-action](https://github.com/dockerbakery/bake-digests-action) - Generate a list of container image digests from &#34;docker/bake-action&#34; metadata output (2 weeks ago)
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 1 day ago) - Gradle Metadata Action for Docker Buildx Bake
+- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 2 days ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 1 week ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.3](https://github.com/hashicorp/vault/releases/tag/v1.18.3), 1 month ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 1 month ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
