@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [chocolatefrappe/huggingface-cache-server](https://github.com/chocolatefrappe/huggingface-cache-server) - This is a cache server for the huggingface.co hub. It is designed to be deployed in a private network to cache models and datasets downloaded from the hub to reduce the load on the public servers and speed up the download process. (1 day ago)
 - [soramitsukhmer/pki](https://github.com/soramitsukhmer/pki) - Repo containing the Public key infrastructure (PKI) for @soramitsukhmer (1 week ago)
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions. (2 weeks ago)
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - A pre-built NGINX modules for container (2 weeks ago)
-- [socheatsok78/s6-overlay-distribution](https://github.com/socheatsok78/s6-overlay-distribution) - A container image distribution of s6-overlay using an explicitly empty image, especially for building images FROM scratch. (3 weeks ago)
-- [socheatsok78/docker-chrony](https://github.com/socheatsok78/docker-chrony) - Just another container image for running NTP Server using `chrony` with support for Linux capabilities using `SYS_TIME` &amp; `IPC_LOCK`. (3 weeks ago)
+- [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -25,8 +25,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.18.4](https://github.com/hashicorp/vault/releases/tag/v1.18.4), 3 weeks ago) - A tool for secrets management, encryption as a service, and privileged access management
-- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 3 weeks ago) - Gradle Metadata Action for Docker Buildx Bake
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.19.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.19.0-rc1), 1 day ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 4 weeks ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 2 months ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 2 months ago) - This GitHub Action installs and setup of a Flutter SDK
