@@ -9,9 +9,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/dockerswarm-monitoring-guide](https://github.com/swarmlibs/dockerswarm-monitoring-guide) - A comprehensive guide for collecting, and exporting telemetry data (metrics, logs, and traces) from Docker Swarm environment. (2 days ago)
-- [chocolatefrappe/flutter-cache-server](https://github.com/chocolatefrappe/flutter-cache-server) - This is a cache server for the Flutter SDK archive. It is designed to be deployed in a private network to cache Flutter SDK releases to reduce the load on the public servers and speed up the download process. (2 days ago)
-- [chocolatefrappe/huggingface-cache-server](https://github.com/chocolatefrappe/huggingface-cache-server) - This is a cache server for the huggingface.co hub. It is designed to be deployed in a private network to cache models and datasets downloaded from the hub to reduce the load on the public servers and speed up the download process. (2 days ago)
+- [swarmlibs/dockerswarm-monitoring-guide](https://github.com/swarmlibs/dockerswarm-monitoring-guide) - A comprehensive guide for collecting, and exporting telemetry data (metrics, logs, and traces) from Docker Swarm environment. (3 days ago)
+- [chocolatefrappe/flutter-cache-server](https://github.com/chocolatefrappe/flutter-cache-server) - This is a cache server for the Flutter SDK archive. It is designed to be deployed in a private network to cache Flutter SDK releases to reduce the load on the public servers and speed up the download process. (3 days ago)
+- [chocolatefrappe/huggingface-cache-server](https://github.com/chocolatefrappe/huggingface-cache-server) - This is a cache server for the huggingface.co hub. It is designed to be deployed in a private network to cache models and datasets downloaded from the hub to reduce the load on the public servers and speed up the download process. (3 days ago)
 - [soramitsukhmer/pki](https://github.com/soramitsukhmer/pki) - Repo containing the Public key infrastructure (PKI) for @soramitsukhmer (1 week ago)
 - [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions. (2 weeks ago)
 
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.19.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.19.0-rc1), 3 days ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.19.0-rc1](https://github.com/hashicorp/vault/releases/tag/v1.19.0-rc1), 4 days ago) - A tool for secrets management, encryption as a service, and privileged access management
 - [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 1 month ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 2 months ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
