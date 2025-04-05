@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [hashicorp/vault](https://github.com/hashicorp/vault) ([v1.19.0](https://github.com/hashicorp/vault/releases/tag/v1.19.0), 1 month ago) - A tool for secrets management, encryption as a service, and privileged access management
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.37](https://github.com/cooperspencer/gickup/releases/tag/v0.10.37), 1 day ago)
 - [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 2 months ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 2 months ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 3 months ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
