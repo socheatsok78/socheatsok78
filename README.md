@@ -9,7 +9,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (1 day ago)
+- [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (2 days ago)
 - [socheatsok78/cloud-images](https://github.com/socheatsok78/cloud-images) - A collections of documentations, repositories and tools for Cloud Images and Cloud Init (1 week ago)
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A tunnel is an HTTP endpoint that acts as a proxy between Sentry and your application. (1 month ago)
 - [chocolatefrappe/gitweb](https://github.com/chocolatefrappe/gitweb) - Git web interface (web frontend to Git repositories) (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.38](https://github.com/cooperspencer/gickup/releases/tag/v0.10.38), 1 week ago)
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.38](https://github.com/cooperspencer/gickup/releases/tag/v0.10.38), 2 weeks ago)
 - [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 2 months ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 3 months ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 4 months ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
