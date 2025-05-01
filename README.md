@@ -9,11 +9,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/go-discover-dockerswarm](https://github.com/socheatsok78/go-discover-dockerswarm) - A &#34;dockerswarm&#34; provider for https://github.com/hashicorp/go-discover (1 day ago)
-- [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (6 days ago)
-- [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (6 days ago)
-- [flutter-actions/setup-fvm](https://github.com/flutter-actions/setup-fvm) - Setup Flutter Version Management: A simple CLI to manage Flutter SDK versions. (1 week ago)
-- [socheatsok78/cloud-images](https://github.com/socheatsok78/cloud-images) - A collections of documentations, repositories and tools for Cloud Images and Cloud Init (2 weeks ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (1 day ago)
+- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (1 day ago)
+- [socheatsok78/go-discover-dockerswarm](https://github.com/socheatsok78/go-discover-dockerswarm) - A &#34;dockerswarm&#34; provider for https://github.com/hashicorp/go-discover (2 days ago)
+- [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (1 week ago)
+- [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
