@@ -9,19 +9,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 days ago)
+- [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin (today)
 - [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (2 days ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (2 days ago)
 - [socheatsok78/go-discover-dockerswarm](https://github.com/socheatsok78/go-discover-dockerswarm) - A &#34;dockerswarm&#34; provider for https://github.com/hashicorp/go-discover (3 days ago)
-- [spring-boot-actions/spring-boot-bake](https://github.com/spring-boot-actions/spring-boot-bake) - Generate docker-bake.hcl and Dockerfile for &#34;docker/bake-action&#34; to build Spring Boot Docker Image (1 week ago)
 - [socheatsok78/docker-acmeproxy](https://github.com/socheatsok78/docker-acmeproxy) - ACME DNS challenge proxy container of madcamel/acmeproxy.pl. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin
 - [socheatsok78/cloud-images](https://github.com/socheatsok78/cloud-images) - A collections of documentations, repositories and tools for Cloud Images and Cloud Init
 - [socheatsok78/go-discover-dockerswarm](https://github.com/socheatsok78/go-discover-dockerswarm) - A &#34;dockerswarm&#34; provider for https://github.com/hashicorp/go-discover
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup
 - [socheatsok78/oracle-instantclient-distribution](https://github.com/socheatsok78/oracle-instantclient-distribution) - The Oracle Instant Client distribution as container image
-- [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A tunnel is an HTTP endpoint that acts as a proxy between Sentry and your application.
 
 #### 🚀 Latest releases I've contributed to
 
