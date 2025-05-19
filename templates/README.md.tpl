@@ -3,6 +3,10 @@
    I'm <a href="#"><img src="assets/branding.svg" width="177" height="18"></a>
 </h3>
 
+<p>
+   🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with @NixOS.
+</p>
+
 > [!WARNING]
 > I'm taking sometime off for my 👶, I'm maybe slow to response!
 
