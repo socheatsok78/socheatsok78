@@ -4,7 +4,7 @@
 </h3>
 
 <p>
-   🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with @NixOS.
+   🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with [@NixOS](https://github.com/NixOS).
 </p>
 
 > [!WARNING]
