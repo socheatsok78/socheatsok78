@@ -13,7 +13,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (today)
+- [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (1 day ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (2 weeks ago)
 - [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin (2 weeks ago)
 - [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (2 weeks ago)
