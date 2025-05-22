@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/dotfiles](https://github.com/socheatsok78/dotfiles) - The dotfiles for my local setup &amp; GitHub Codespace ✌️ (1 day ago)
-- [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (2 days ago)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (2 weeks ago)
+- [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (3 days ago)
 - [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin (2 weeks ago)
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (3 weeks ago)
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (2 weeks ago)
+- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
