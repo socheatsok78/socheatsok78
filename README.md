@@ -13,11 +13,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [soramitsukhmer-lab/nix-vue-project](https://github.com/soramitsukhmer-lab/nix-vue-project) - A Nix project for building and packaging Vue 3 in Vite. (1 day ago)
 - [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (1 week ago)
 - [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin (3 weeks ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (3 weeks ago)
 - [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (1 month ago)
-- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
