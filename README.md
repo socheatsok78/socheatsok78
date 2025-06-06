@@ -13,11 +13,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [soramitsukhmer-lab/nix-vue-project](https://github.com/soramitsukhmer-lab/nix-vue-project) - A Nix project for building and packaging Vue 3 in Vite. (6 days ago)
+- [soramitsukhmer-lab/nix-vue-project](https://github.com/soramitsukhmer-lab/nix-vue-project) - A Nix project for building and packaging Vue 3 in Vite. (1 week ago)
 - [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (2 weeks ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 month ago)
 - [socheatsok78/docker-stackx-cli-plugin](https://github.com/socheatsok78/docker-stackx-cli-plugin) - Extended Docker Stack CLI plugin (1 month ago)
-- [swarmlibs/logstack](https://github.com/swarmlibs/logstack) - Like Promstack, but for logs. Includes (Grafana Loki and Promtail) (1 month ago)
+- [swarmlibs/promstack](https://github.com/swarmlibs/promstack) - A Docker Stack deployment for the monitoring suite for Docker Swarm includes (Grafana, Prometheus, cAdvisor, Node exporter and Blackbox prober exporter) (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -29,11 +29,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.5.0](https://github.com/fosrl/pangolin/releases/tag/1.5.0), 1 day ago) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.38](https://github.com/cooperspencer/gickup/releases/tag/v0.10.38), 2 months ago)
 - [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 4 months ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 4 months ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-pubdev-credentials](https://github.com/flutter-actions/setup-pubdev-credentials) ([v1.1](https://github.com/flutter-actions/setup-pubdev-credentials/releases/tag/v1.1), 5 months ago) - GitHub Action to configuring credentials for automated publishing of packages to pub.dev
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.0](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.0), 5 months ago) - This GitHub Action installs and setup of a Flutter SDK
 
 #### My publicly-auditable identity
    - **PGP Public Key**: [3BDF 9934 2AB2 A23E](https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index)
