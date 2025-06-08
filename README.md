@@ -29,7 +29,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.5.0](https://github.com/fosrl/pangolin/releases/tag/1.5.0), 2 days ago) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.5.0](https://github.com/fosrl/pangolin/releases/tag/1.5.0), 3 days ago) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.38](https://github.com/cooperspencer/gickup/releases/tag/v0.10.38), 2 months ago)
 - [dockerbakery/gradle-metadata-action](https://github.com/dockerbakery/gradle-metadata-action) ([v3.0](https://github.com/dockerbakery/gradle-metadata-action/releases/tag/v3.0), 4 months ago) - Gradle Metadata Action for Docker Buildx Bake
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v3.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v3.0), 4 months ago) - GitHub Metadata Action for Docker Buildx Bake.
