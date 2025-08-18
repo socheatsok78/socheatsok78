@@ -14,10 +14,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 day ago)
-- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images design to be running in Docker Swarm environment (2 days ago)
-- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (3 days ago)
+- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images design to be running in Docker Swarm environment (3 days ago)
+- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (4 days ago)
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (2 weeks ago)
-- [cacheserver/linux-packages](https://github.com/cacheserver/linux-packages) - This is a cache server for Linux package repositories, it is designed to be deployed in a private network to cache Linux package to reduce the load on the public servers and speed up the download process. (3 weeks ago)
+- [cacheserver/huggingface](https://github.com/cacheserver/huggingface) - This is a cache server for the huggingface.co hub. It is designed to be deployed in a private network to cache models and datasets downloaded from the hub to reduce the load on the public servers and speed up the download process. (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -30,7 +30,7 @@
 #### 🚀 Latest releases I've contributed to
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.8.0](https://github.com/fosrl/pangolin/releases/tag/1.8.0), 2 weeks ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([v2.0.0](https://github.com/socheatsok78/gickup-action/releases/tag/v2.0.0), 2 weeks ago) - A GitHub Action for backing up any git repositories using gickup
+- [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([v2.0.0](https://github.com/socheatsok78/gickup-action/releases/tag/v2.0.0), 3 weeks ago) - A GitHub Action for backing up any git repositories using gickup
 - [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.39](https://github.com/cooperspencer/gickup/releases/tag/v0.10.39), 3 weeks ago)
 - [soramitsukhmer-lab/vault-plugin-catalog](https://github.com/soramitsukhmer-lab/vault-plugin-catalog) ([v0.1.0-rc.11](https://github.com/soramitsukhmer-lab/vault-plugin-catalog/releases/tag/v0.1.0-rc.11), 1 month ago) - A HashiCorp Vault plugin catalog management tool
 - [soramitsukhmer-lab/vault-plugin-catalog-database](https://github.com/soramitsukhmer-lab/vault-plugin-catalog-database) ([v0.1.0-rc.1](https://github.com/soramitsukhmer-lab/vault-plugin-catalog-database/releases/tag/v0.1.0-rc.1), 1 month ago) - A HashiCorp Vault plugin catalog database
