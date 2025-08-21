@@ -13,25 +13,25 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [cacheserver/linux-packages](https://github.com/cacheserver/linux-packages) - This is a cache server for Linux package repositories, it is designed to be deployed in a private network to cache Linux package to reduce the load on the public servers and speed up the download process. (2 days ago)
-- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (2 days ago)
-- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images design to be running in Docker Swarm environment (5 days ago)
-- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (6 days ago)
-- [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (3 weeks ago)
+- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (1 day ago)
+- [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (1 day ago)
+- [cacheserver/linux-packages](https://github.com/cacheserver/linux-packages) - This is a cache server for Linux package repositories, it is designed to be deployed in a private network to cache Linux package to reduce the load on the public servers and speed up the download process. (3 days ago)
+- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (3 days ago)
+- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images design to be running in Docker Swarm environment (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/docker-cli-otel](https://github.com/socheatsok78/docker-cli-otel) - A support package for instrumenting Docker CLI and Docker Buildx with OpenTelemetry
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things.
 - [socheatsok78/go-discover-netaddrs](https://github.com/socheatsok78/go-discover-netaddrs) - A &#34;go-netaddrs&#34; provider for &#34;go-discover&#34;
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78.
 - [socheatsok78/dockerfile-samples](https://github.com/socheatsok78/dockerfile-samples) - A collections of Dockerfile samples for building various projects.
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - My personal Nix User Repository
 
 #### 🚀 Latest releases I've contributed to
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.8.0](https://github.com/fosrl/pangolin/releases/tag/1.8.0), 3 weeks ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([v2.0.0](https://github.com/socheatsok78/gickup-action/releases/tag/v2.0.0), 3 weeks ago) - A GitHub Action for backing up any git repositories using gickup
-- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.39](https://github.com/cooperspencer/gickup/releases/tag/v0.10.39), 3 weeks ago)
+- [cooperspencer/gickup](https://github.com/cooperspencer/gickup) ([v0.10.39](https://github.com/cooperspencer/gickup/releases/tag/v0.10.39), 4 weeks ago)
 - [soramitsukhmer-lab/vault-plugin-catalog](https://github.com/soramitsukhmer-lab/vault-plugin-catalog) ([v0.1.0-rc.11](https://github.com/soramitsukhmer-lab/vault-plugin-catalog/releases/tag/v0.1.0-rc.11), 1 month ago) - A HashiCorp Vault plugin catalog management tool
 - [soramitsukhmer-lab/vault-plugin-catalog-database](https://github.com/soramitsukhmer-lab/vault-plugin-catalog-database) ([v0.1.0-rc.1](https://github.com/soramitsukhmer-lab/vault-plugin-catalog-database/releases/tag/v0.1.0-rc.1), 2 months ago) - A HashiCorp Vault plugin catalog database
 
