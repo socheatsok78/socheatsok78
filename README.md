@@ -13,11 +13,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78 personal homebrew tap (today)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - My personal Nix User Repository (1 day ago)
 - [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (2 days ago)
 - [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A custom HashiCorp container images design for @soramitsukhmer (2 days ago)
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (3 days ago)
-- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
