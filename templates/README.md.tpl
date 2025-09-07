@@ -5,7 +5,7 @@
 
 <p>
    🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with <a href="https://github.com/NixOS">@NixOS</a>.
-   <br /><br />
+   <br />
    Currently exploring Software-Defined Radio (SDR) 📡 and expanding my knowledge in ham and amateur radio 📻.
 </p>
 
