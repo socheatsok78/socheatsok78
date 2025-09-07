@@ -3,7 +3,7 @@
    I'm <a href="#"><img src="assets/branding.svg" width="177" height="18"></a>
 </h3>
 
-> 👨🏻‍💻 Software Engineer from 🇰🇭 passionate about web technologies and systems programming languages, with a strong interest in @NixOS. Currently exploring Software-Defined Radio (SDR) 📡 and ham/amateur radio 📻 as part of expanding my technical horizons and curiosity for emerging communication technologies.
+> 👨🏻‍💻 Software Engineer from 🇰🇭 with a passion for web technologies and systems programming languages, and a growing interest in @NixOS. Currently exploring Software-Defined Radio (SDR) 📡 while expanding my knowledge in ham and amateur radio 📻.
 
 
 > [!WARNING]
