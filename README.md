@@ -4,9 +4,7 @@
 </h3>
 
 <p>
-   🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with <a href="https://github.com/NixOS">@NixOS</a>.
-   <br />
-   Currently exploring Software-Defined Radio (SDR) 📡 and expanding my knowledge in ham and amateur radio 📻.
+   🇰🇭👨🏻‍💻 Software Engineer ❤️ web technologies & systems languages 🫰 obsessed with <a href="https://github.com/NixOS">@NixOS</a>, currently exploring Software-Defined Radio 📡 (SDR) and expanding my knowledge in ham and amateur radio 📻.
 </p>
 
 > [!WARNING]
