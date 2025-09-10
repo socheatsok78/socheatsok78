@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (2 days ago)
 - [openkhmerfonts/homebrew-tap](https://github.com/openkhmerfonts/homebrew-tap) - 🖋 Casks of Khmer Unicode Ｆ🅾𝓝𝐓𝚂 &amp; Keyboard Layout (1 week ago)
-- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A custom HashiCorp container images design for @soramitsukhmer (1 week ago)
+- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
