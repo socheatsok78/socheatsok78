@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (today)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (today)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (today)
 - [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (3 days ago)
 - [openkhmerfonts/homebrew-tap](https://github.com/openkhmerfonts/homebrew-tap) - 🖋 Casks of Khmer Unicode Ｆ🅾𝓝𝐓𝚂 &amp; Keyboard Layout (1 week ago)
-- [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
