@@ -12,19 +12,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (5 days ago)
 - [soramitsukhmer-lab/flake-templates](https://github.com/soramitsukhmer-lab/flake-templates) - A collection of project templates for Nix Flakes (1 week ago)
 - [openkhmerfonts/homebrew-tap](https://github.com/openkhmerfonts/homebrew-tap) - 🖋 Casks of Khmer Unicode Ｆ🅾𝓝𝐓𝚂 &amp; Keyboard Layout (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons
+- [socheatsok78/hassio-addons-backup](https://github.com/socheatsok78/hassio-addons-backup)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules.
 - [socheatsok78/docker-cli-otel](https://github.com/socheatsok78/docker-cli-otel) - A support package for instrumenting Docker CLI and Docker Buildx with OpenTelemetry
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things.
-- [socheatsok78/go-discover-netaddrs](https://github.com/socheatsok78/go-discover-netaddrs) - A &#34;go-netaddrs&#34; provider for &#34;go-discover&#34;
-- [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78.
 
 #### 🚀 Latest releases I've contributed to
 
