@@ -21,10 +21,10 @@
 #### 👨‍💻 Repositories I created recently
 
 - [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons
-- [socheatsok78/hassio-addons-backup](https://github.com/socheatsok78/hassio-addons-backup)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules.
 - [socheatsok78/docker-cli-otel](https://github.com/socheatsok78/docker-cli-otel) - A support package for instrumenting Docker CLI and Docker Buildx with OpenTelemetry
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things.
+- [socheatsok78/go-discover-netaddrs](https://github.com/socheatsok78/go-discover-netaddrs) - A &#34;go-netaddrs&#34; provider for &#34;go-discover&#34;
 
 #### 🚀 Latest releases I've contributed to
 
