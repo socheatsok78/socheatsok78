@@ -12,7 +12,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (today)
 - [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons (2 days ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (2 days ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (1 week ago)
