@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.10.1](https://github.com/fosrl/pangolin/releases/tag/1.10.1), 4 days ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.10.2](https://github.com/fosrl/pangolin/releases/tag/1.10.2), today) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2025-09-12](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2025-09-12), 1 week ago) - @socheatsok78&#39;s Homebrew Tap
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) ([nightly](https://github.com/socheatsok78/SDRPlusPlusReloaded/releases/tag/nightly), 1 week ago) - A custom build of SDRPlusPlus for macOS with additional modules.
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([v2.0.0](https://github.com/socheatsok78/gickup-action/releases/tag/v2.0.0), 1 month ago) - A GitHub Action for backing up any git repositories using gickup
