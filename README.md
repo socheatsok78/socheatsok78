@@ -13,10 +13,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (5 days ago)
-- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (5 days ago)
 - [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (5 days ago)
-- [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons (6 days ago)
+- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (5 days ago)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (6 days ago)
+- [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
