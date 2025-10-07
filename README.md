@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (today)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (today)
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) - A GitHub Action for backing up any git repositories using gickup (6 days ago)
-- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (6 days ago)
 - [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (6 days ago)
-- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 week ago)
-- [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons (1 week ago)
+- [soramitsukhmer-lab/dockerswarm-hashicorp](https://github.com/soramitsukhmer-lab/dockerswarm-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
