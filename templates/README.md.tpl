@@ -28,4 +28,4 @@
 {{- end}}
 
 #### My publicly-auditable identity
-   - **PGP Public Key**: [3BDF 9934 2AB2 A23E](https://keyserver.ubuntu.com/pks/lookup?search=73E235BAB2858AF5EBBBD4063BDF99342AB2A23E&fingerprint=on&options=mr&op=index)
+   - **PGP Public Key**: [8E9C 7CC6 9C59 2666 E524  C19B AEF5 7417 7863 9AF0](https://keys.openpgp.org/vks/v1/by-fingerprint/8E9C7CC69C592666E524C19BAEF5741778639AF0)
