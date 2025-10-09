@@ -13,9 +13,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (today)
-- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (today)
-- [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (1 day ago)
+- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
+- [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (2 days ago)
 - [socheatsok78-lab/dockerswarm-hashicorp](https://github.com/socheatsok78-lab/dockerswarm-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) ([rolling](https://github.com/socheatsok78/macos-sdks/releases/tag/rolling), today) - macOS SDKs for using with osxcross
+- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) ([rolling](https://github.com/socheatsok78/macos-sdks/releases/tag/rolling), 1 day ago) - macOS SDKs for using with osxcross
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([2.0.4](https://github.com/socheatsok78/gickup-action/releases/tag/2.0.4), 1 week ago) - A GitHub Action for backing up any git repositories using gickup
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.10.3](https://github.com/fosrl/pangolin/releases/tag/1.10.3), 2 weeks ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [socheatsok78/khmer-unicode-keyboard-for-macos](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos) ([v2.1.0-rc.1](https://github.com/socheatsok78/khmer-unicode-keyboard-for-macos/releases/tag/v2.1.0-rc.1), 2 weeks ago) - ⌨  Khmer Unicode for MacOS build using standard NiDA keyboard layout
