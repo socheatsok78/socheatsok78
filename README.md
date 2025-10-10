@@ -35,4 +35,27 @@
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2025-09-12](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2025-09-12), 3 weeks ago) - @socheatsok78&#39;s Homebrew Tap
 
 #### My publicly-auditable identity
+   - **Keybase**: [socheatsok78](https://keybase.io/socheatsok78)
    - **PGP Public Key**: [8E9C 7CC6 9C59 2666 E524  C19B AEF5 7417 7863 9AF0](https://keys.openpgp.org/vks/v1/by-fingerprint/8E9C7CC69C592666E524C19BAEF5741778639AF0)
+
+
+<details>
+<summary>Click to expand for instructions on how to import my public keys</summary><br/>
+
+```sh
+# SSH Public Keys
+ssh-import-id gh:socheatsok78
+# or
+curl https://github.com/socheatsok78.keys >> ~/.ssh/authorized_keys
+```
+
+```sh
+# GPG Public Key
+curl https://github.com/socheatsok78.gpg | gpg --import
+# or
+curl https://keybase.io/socheatsok78/pgp_keys.asc | gpg --import
+
+# the Keybase app can push to gpg keychain, too
+keybase pgp pull socheatsok78
+```
+</details>
