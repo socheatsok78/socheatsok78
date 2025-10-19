@@ -12,9 +12,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (5 days ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (2 days ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (2 days ago)
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (6 days ago)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 week ago)
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (1 week ago)
 
@@ -28,9 +28,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.0](https://github.com/fosrl/pangolin/releases/tag/1.11.0), today) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 1 day ago) - @socheatsok78&#39;s Homebrew Tap
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 5 days ago) - This GitHub Action installs and setup of a Flutter SDK
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.0](https://github.com/fosrl/pangolin/releases/tag/1.11.0), 1 day ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 2 days ago) - @socheatsok78&#39;s Homebrew Tap
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 6 days ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) ([rolling](https://github.com/socheatsok78/macos-sdks/releases/tag/rolling), 1 week ago) - macOS SDKs for using with osxcross
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([2.0.4](https://github.com/socheatsok78/gickup-action/releases/tag/2.0.4), 2 weeks ago) - A GitHub Action for backing up any git repositories using gickup
 
