@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.1](https://github.com/fosrl/pangolin/releases/tag/1.11.1), today) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.0](https://github.com/fosrl/pangolin/releases/tag/1.11.0), 3 days ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 4 days ago) - @socheatsok78&#39;s Homebrew Tap
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) ([rolling](https://github.com/socheatsok78/macos-sdks/releases/tag/rolling), 1 week ago) - macOS SDKs for using with osxcross
