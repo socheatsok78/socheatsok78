@@ -12,7 +12,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of custom built HashiCorp container images with a customized service discovery mechanism. (today)
+- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (today)
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (today)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (6 days ago)
