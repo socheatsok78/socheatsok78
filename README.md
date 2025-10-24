@@ -12,10 +12,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (today)
-- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (today)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (6 days ago)
+- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (1 day ago)
+- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (2 days ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 week ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -28,9 +28,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0), today) - Some Mac OS X SDKs for development purposes with osxcross.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.1](https://github.com/fosrl/pangolin/releases/tag/1.11.1), 2 days ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 6 days ago) - @socheatsok78&#39;s Homebrew Tap
+- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0), 1 day ago) - Some Mac OS X SDKs for development purposes with osxcross.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.11.1](https://github.com/fosrl/pangolin/releases/tag/1.11.1), 3 days ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 1 week ago) - @socheatsok78&#39;s Homebrew Tap
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) ([rolling](https://github.com/socheatsok78/macos-sdks/releases/tag/rolling), 2 weeks ago) - macOS SDKs for using with osxcross
 
