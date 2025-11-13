@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (today)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (1 day ago)
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (1 week ago)
 - [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (2 weeks ago)
 - [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (2 weeks ago)
-- [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) - GitHub Metadata Action for Docker Buildx Bake. (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
