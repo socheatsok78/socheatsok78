@@ -12,9 +12,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (today)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (2 days ago)
 - [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (2 weeks ago)
 
@@ -28,10 +28,10 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2025-10-31](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2025-10-31), today) - @socheatsok78&#39;s Homebrew Tap
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.12.2](https://github.com/fosrl/pangolin/releases/tag/1.12.2), 5 days ago) - Identity-based, multi-site remote access platform using WireGuard®
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 2 weeks ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0), 3 weeks ago) - Some Mac OS X SDKs for development purposes with osxcross.
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-10-06](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-10-06), 4 weeks ago) - @socheatsok78&#39;s Homebrew Tap
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 1 month ago) - This GitHub Action installs and setup of a Flutter SDK
 
 #### My publicly-auditable identity
