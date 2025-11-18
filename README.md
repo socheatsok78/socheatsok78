@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([gon-0.2.5](https://github.com/socheatsok78/homebrew-tap/releases/tag/gon-0.2.5), today) - @socheatsok78&#39;s Homebrew Tap
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([quill-0.5.1](https://github.com/socheatsok78/homebrew-tap/releases/tag/quill-0.5.1), today) - @socheatsok78&#39;s Homebrew Tap
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.12.2](https://github.com/fosrl/pangolin/releases/tag/1.12.2), 1 week ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 3 weeks ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0), 3 weeks ago) - Some Mac OS X SDKs for development purposes with osxcross.
