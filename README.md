@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (today)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (6 days ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 week ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (1 week ago)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (1 week ago)
-- [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (2 weeks ago)
+- [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -28,8 +28,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 1 day ago) - Some Mac OS X SDKs for development purposes with osxcross.
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([quill-0.5.1](https://github.com/socheatsok78/homebrew-tap/releases/tag/quill-0.5.1), 2 days ago) - @socheatsok78&#39;s Homebrew Tap
+- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 2 days ago) - Some Mac OS X SDKs for development purposes with osxcross.
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([quill-0.5.1](https://github.com/socheatsok78/homebrew-tap/releases/tag/quill-0.5.1), 3 days ago) - @socheatsok78&#39;s Homebrew Tap
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.12.2](https://github.com/fosrl/pangolin/releases/tag/1.12.2), 1 week ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 3 weeks ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 1 month ago) - This GitHub Action installs and setup of a Flutter SDK
