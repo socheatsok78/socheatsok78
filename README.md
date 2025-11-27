@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (today)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 week ago)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 week ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (2 weeks ago)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (2 weeks ago)
-- [chocolatefrappe/nginx-modules](https://github.com/chocolatefrappe/nginx-modules) - [CONTINUED] A pre-built NGINX modules for container (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
