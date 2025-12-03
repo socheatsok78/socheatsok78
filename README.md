@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (today)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (today)
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (5 days ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 day ago)
+- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (6 days ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (2 weeks ago)
-- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (2 weeks ago)
+- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 1 week ago) - Some Mac OS X SDKs for development purposes with osxcross.
+- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 2 weeks ago) - Some Mac OS X SDKs for development purposes with osxcross.
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([quill-0.5.1](https://github.com/socheatsok78/homebrew-tap/releases/tag/quill-0.5.1), 2 weeks ago) - @socheatsok78&#39;s Homebrew Tap
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.12.2](https://github.com/fosrl/pangolin/releases/tag/1.12.2), 3 weeks ago) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
