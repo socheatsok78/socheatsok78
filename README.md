@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.14.0-rc.0](https://github.com/fosrl/pangolin/releases/tag/1.14.0-rc.0), today) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.14.0](https://github.com/fosrl/pangolin/releases/tag/1.14.0), today) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-11-28](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-11-28), 6 days ago) - @socheatsok78&#39;s Homebrew Tap
 - [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 1 month ago) - Some Mac OS X SDKs for development purposes with osxcross.
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
