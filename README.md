@@ -12,9 +12,9 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (3 days ago)
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (5 days ago)
-- [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application. (1 week ago)
+- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (4 days ago)
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (6 days ago)
+- [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application. (2 weeks ago)
 - [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (3 weeks ago)
 - [socheatsok78/SDRPlusPlusReloaded](https://github.com/socheatsok78/SDRPlusPlusReloaded) - A custom build of SDRPlusPlus for macOS with additional modules. (1 month ago)
 
@@ -28,8 +28,8 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.14.0](https://github.com/fosrl/pangolin/releases/tag/1.14.0), today) - Identity-aware VPN and proxy for remote access to anything, anywhere.
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-11-28](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-11-28), 6 days ago) - @socheatsok78&#39;s Homebrew Tap
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.14.0](https://github.com/fosrl/pangolin/releases/tag/1.14.0), 1 day ago) - Identity-aware VPN and proxy for remote access to anything, anywhere.
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-11-28](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-11-28), 1 week ago) - @socheatsok78&#39;s Homebrew Tap
 - [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 1 month ago) - Some Mac OS X SDKs for development purposes with osxcross.
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v4.1](https://github.com/dockerbakery/github-metadata-action/releases/tag/v4.1), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.1](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.1), 2 months ago) - This GitHub Action installs and setup of a Flutter SDK
