@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78-lab/fortigate_snmp_exporter](https://github.com/socheatsok78-lab/fortigate_snmp_exporter) - FortiGate SNMP Exporter Config Generator (today)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
 - [swarmprom/grafana-dashboards](https://github.com/swarmprom/grafana-dashboards) -  (3 days ago)
 - [swarmprom/docker-library](https://github.com/swarmprom/docker-library) - @swarmprom container images library (3 days ago)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (2 weeks ago)
-- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 month ago)
 
 #### 👨‍💻 Repositories I created recently
 
