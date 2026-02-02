@@ -13,10 +13,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
+- [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) - GitHub Metadata Action for Docker Buildx Bake. (today)
 - [socheatsok78-lab/fortigate_snmp_exporter](https://github.com/socheatsok78-lab/fortigate_snmp_exporter) - FortiGate SNMP Exporter Config Generator (4 days ago)
 - [swarmprom/docker-library](https://github.com/swarmprom/docker-library) - @swarmprom container images library (1 week ago)
 - [swarmprom/grafana-dashboards](https://github.com/swarmprom/grafana-dashboards) -  (1 week ago)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
