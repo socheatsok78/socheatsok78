@@ -15,12 +15,12 @@
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) - GitHub Metadata Action for Docker Buildx Bake. (today)
 - [socheatsok78-lab/fortigate_snmp_exporter](https://github.com/socheatsok78-lab/fortigate_snmp_exporter) - FortiGate SNMP Exporter Config Generator (4 days ago)
-- [swarmprom/docker-library](https://github.com/swarmprom/docker-library) - @swarmprom container images library (1 week ago)
 - [swarmprom/grafana-dashboards](https://github.com/swarmprom/grafana-dashboards) -  (1 week ago)
+- [swarmprom/docker-library](https://github.com/swarmprom/docker-library) - @swarmprom container images library (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [socheatsok78/homebrew-services](https://github.com/socheatsok78/homebrew-services) - @socheatsok78&#39;s Homebrew Services
+- [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78&#39;s Homebrew Services
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78
 - [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross
 - [socheatsok78/hassio-addons](https://github.com/socheatsok78/hassio-addons) - @socheatsok78&#39;s Home Assistant Add-ons
