@@ -14,9 +14,9 @@
 
 - [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (today)
 - [socheatsok78/docker-s6-overlay](https://github.com/socheatsok78/docker-s6-overlay) - A lightweight container image distribution of s6-overlay using an explicitly empty image (FROM scratch). (today)
+- [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (today)
 - [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (today)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 day ago)
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
