@@ -13,9 +13,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [soramitsukhmer-lab/demo-poc-vault-ed25519-sha3-512](https://github.com/soramitsukhmer-lab/demo-poc-vault-ed25519-sha3-512) - This repository explains how to use HashiCorp Vault with a customized transit secrets engine to support ed25519sha3 key generation and signing. (today)
-- [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (1 day ago)
-- [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (1 day ago)
+- [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (today)
 - [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (1 day ago)
+- [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (1 day ago)
 - [socheatsok78/docker-s6-overlay](https://github.com/socheatsok78/docker-s6-overlay) - A lightweight container image distribution of s6-overlay using an explicitly empty image (FROM scratch). (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
