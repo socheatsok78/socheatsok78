@@ -12,10 +12,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) - GitHub Metadata Action for Docker Buildx Bake. (today)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (2 days ago)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (1 week ago)
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (2 weeks ago)
 - [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -28,11 +28,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.0), today) - GitHub Metadata Action for Docker Buildx Bake.
 - [docker/bake-action](https://github.com/docker/bake-action) ([v7.0.0](https://github.com/docker/bake-action/releases/tag/v7.0.0), 2 weeks ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.16.2](https://github.com/fosrl/pangolin/releases/tag/1.16.2), 3 weeks ago) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) ([v1.0.0](https://github.com/socheatsok78/sentrytunnel/releases/tag/v1.0.0), 1 month ago) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application.
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([m17-fme-2025-11-28](https://github.com/socheatsok78/homebrew-tap/releases/tag/m17-fme-2025-11-28), 3 months ago) - @socheatsok78&#39;s Homebrew Tap
-- [joseluisq/macosx-sdks](https://github.com/joseluisq/macosx-sdks) ([26.1](https://github.com/joseluisq/macosx-sdks/releases/tag/26.1), 4 months ago) - Some Mac OS X SDKs for development purposes with osxcross.
 
 #### My publicly-auditable identity
    - **Keybase**: [socheatsok78](https://keybase.io/socheatsok78)
