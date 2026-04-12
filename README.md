@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/bake-action](https://github.com/docker/bake-action) ([v7.1.0](https://github.com/docker/bake-action/releases/tag/v7.1.0), 1 day ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.1.0](https://github.com/docker/bake-action/releases/tag/v7.1.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.17.0](https://github.com/fosrl/pangolin/releases/tag/1.17.0), 1 week ago) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.2](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.2), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.0), 2 weeks ago) - GitHub Metadata Action for Docker Buildx Bake.
