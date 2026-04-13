@@ -12,7 +12,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
+- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 day ago)
 - [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (1 week ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 week ago)
 - [soramitsukhmer-lab/soramitsukhmer-lab.github.io](https://github.com/soramitsukhmer-lab/soramitsukhmer-lab.github.io) - OSS / Experimental / R&amp;D for Soramitsu Khmer (1 week ago)
@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/bake-action](https://github.com/docker/bake-action) ([v7.1.0](https://github.com/docker/bake-action/releases/tag/v7.1.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.1.0](https://github.com/docker/bake-action/releases/tag/v7.1.0), 3 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.17.0](https://github.com/fosrl/pangolin/releases/tag/1.17.0), 1 week ago) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.2](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.2), 1 week ago) - This GitHub Action installs and setup of a Flutter SDK
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.0), 2 weeks ago) - GitHub Metadata Action for Docker Buildx Bake.
