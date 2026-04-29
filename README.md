@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.18.0](https://github.com/fosrl/pangolin/releases/tag/1.18.0), today) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) ([1.18.1](https://github.com/fosrl/pangolin/releases/tag/1.18.1), today) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [docker/bake-action](https://github.com/docker/bake-action) ([v7.1.0](https://github.com/docker/bake-action/releases/tag/v7.1.0), 2 weeks ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.2](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.2), 4 weeks ago) - This GitHub Action installs and setup of a Flutter SDK
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.0), 1 month ago) - GitHub Metadata Action for Docker Buildx Bake.
