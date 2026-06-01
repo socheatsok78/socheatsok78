@@ -13,10 +13,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (1 week ago)
+- [soramitsukhmer-lab/git-tools](https://github.com/soramitsukhmer-lab/git-tools) - @soramitsukhmer git tools (1 week ago)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 week ago)
 - [soramitsukhmer-lab/docker-hashicorp](https://github.com/soramitsukhmer-lab/docker-hashicorp) - A collection of HashiCorp container images tailored for @soramitsukhmer (1 week ago)
 - [soramitsukhmer/homebrew-tap](https://github.com/soramitsukhmer/homebrew-tap) - @soramitsukhmer&#39;s Official Homebrew tap (1 week ago)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
