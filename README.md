@@ -20,11 +20,11 @@
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/docker-coredns-prime](https://github.com/socheatsok78/docker-coredns-prime) - A customized CoreDNS tailored for @socheatsok78
 - [socheatsok78/nixberrypi](https://github.com/socheatsok78/nixberrypi) - NixOS on a Raspberry Pi
 - [socheatsok78/AIOC-kits](https://github.com/socheatsok78/AIOC-kits) - Ham Radio All-in-one-Cable Kits
 - [socheatsok78/flake-templates](https://github.com/socheatsok78/flake-templates) - A collection of flake templates for @socheatsok78
 - [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE
-- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78
 
 #### 🚀 Latest releases I've contributed to
 
