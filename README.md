@@ -28,9 +28,9 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), today) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2026-06-26](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2026-06-26), today) - @socheatsok78&#39;s Homebrew Tap
 - [socheatsok78/gickup-action](https://github.com/socheatsok78/gickup-action) ([2.0.5](https://github.com/socheatsok78/gickup-action/releases/tag/2.0.5), 3 weeks ago) - A GitHub Action for backing up any git repositories using gickup
-- [docker/bake-action](https://github.com/docker/bake-action) ([v7.2.0](https://github.com/docker/bake-action/releases/tag/v7.2.0), 1 month ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.2](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.2), 3 months ago) - This GitHub Action installs and setup of a Flutter SDK
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.0](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.0), 3 months ago) - GitHub Metadata Action for Docker Buildx Bake.
 
