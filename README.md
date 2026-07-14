@@ -13,10 +13,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (today)
+- [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (today)
+- [socheatsok78/docker-s6-overlay](https://github.com/socheatsok78/docker-s6-overlay) - A lightweight container image distribution of s6-overlay using an explicitly empty image (FROM scratch). (today)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (1 day ago)
-- [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (1 day ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 day ago)
-- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
