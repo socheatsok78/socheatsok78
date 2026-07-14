@@ -13,10 +13,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (today)
-- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 day ago)
-- [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (1 day ago)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (1 day ago)
-- [socheatsok78/docker-coredns-prime](https://github.com/socheatsok78/docker-coredns-prime) - A customized CoreDNS tailored for @socheatsok78 (2 days ago)
+- [socheatsok78/docker-oracle-instantclient](https://github.com/socheatsok78/docker-oracle-instantclient) - The Oracle Instant Client distribution as container image (1 day ago)
+- [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (1 day ago)
+- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
