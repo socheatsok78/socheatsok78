@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/flake-templates](https://github.com/socheatsok78/flake-templates) - A collection of flake templates for @socheatsok78 (today)
 - [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (4 days ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (5 days ago)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (6 days ago)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (1 week ago)
-- [socheatsok78/docker-s6-overlay](https://github.com/socheatsok78/docker-s6-overlay) - A lightweight container image distribution of s6-overlay using an explicitly empty image (FROM scratch). (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
