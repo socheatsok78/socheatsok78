@@ -12,8 +12,8 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay image built on top of Nix. (today)
 - [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (1 day ago)
-- [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay image built on top of Nix. (1 day ago)
 - [socheatsok78/buildkit-nix-demo](https://github.com/socheatsok78/buildkit-nix-demo) - This is a demo project for showcasing the capabilities of socheatsok78/buildkit-nix. It demonstrates how to use BuildKit with Nix Flakes to build container images. (4 days ago)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (4 days ago)
 - [socheatsok78/flake-templates](https://github.com/socheatsok78/flake-templates) - A collection of flake templates for @socheatsok78 (1 week ago)
