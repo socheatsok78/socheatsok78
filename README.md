@@ -12,19 +12,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (today)
 - [socheatsok78/flake-templates](https://github.com/socheatsok78/flake-templates) - A collection of flake templates for @socheatsok78 (today)
-- [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (today)
 - [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images. (today)
-- [socheatsok78/buildkit-nix-demo](https://github.com/socheatsok78/buildkit-nix-demo) - This is a demo project for showcasing the capabilities of socheatsok78/buildkit-nix. It demonstrates how to use BuildKit with Nix Flakes to build container images. (5 days ago)
+- [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (today)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78 personal homebrew tap
 - [socheatsok78/maintainers.nix](https://github.com/socheatsok78/maintainers.nix) - @socheatsok78&#39;s maintainers list for nixpkgs and nurs
 - [socheatsok78/buildkit-nix-demo](https://github.com/socheatsok78/buildkit-nix-demo) - This is a demo project for showcasing the capabilities of socheatsok78/buildkit-nix. It demonstrates how to use BuildKit with Nix Flakes to build container images.
 - [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile.
 - [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images.
-- [socheatsok78/docker-coredns-prime](https://github.com/socheatsok78/docker-coredns-prime) - A customized CoreDNS tailored for @socheatsok78
 
 #### 🚀 Latest releases I've contributed to
 
