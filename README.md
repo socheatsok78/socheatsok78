@@ -12,7 +12,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images. (1 day ago)
+- [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images. (today)
 - [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (2 days ago)
 - [socheatsok78/buildkit-nix-demo](https://github.com/socheatsok78/buildkit-nix-demo) - This is a demo project for showcasing the capabilities of socheatsok78/buildkit-nix. It demonstrates how to use BuildKit with Nix Flakes to build container images. (5 days ago)
 - [socheatsok78/uses](https://github.com/socheatsok78/uses) - A shared-workflow for various tasks for @socheatsok78. (5 days ago)
