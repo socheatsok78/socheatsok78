@@ -16,7 +16,7 @@
 - [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (2 days ago)
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) - This GitHub Action installs and setup of a Flutter SDK (5 days ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 week ago)
-- [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78 personal homebrew tap (1 week ago)
+- [socheatsok78/flake-templates](https://github.com/socheatsok78/flake-templates) - A collection of flake templates for @socheatsok78 (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
