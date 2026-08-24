@@ -14,7 +14,7 @@
 
 - [buildkitnix/.github](https://github.com/buildkitnix/.github) -  (today)
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application. (today)
-- [soramitsukhmer-lab/uses](https://github.com/soramitsukhmer-lab/uses) - A shared-workflow for various tasks for @soramitsukhmer-lab. (today)
+- [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (today)
 - [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile. (today)
 - [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (today)
 
