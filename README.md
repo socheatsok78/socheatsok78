@@ -20,11 +20,11 @@
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/gha-debug-docker](https://github.com/socheatsok78/gha-debug-docker)
 - [socheatsok78/docker-flake-metadata](https://github.com/socheatsok78/docker-flake-metadata) - GitHub Action to extract metadata from Nix Flakes for Docker Buildx Bake
 - [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78 personal homebrew tap
 - [socheatsok78/maintainers.nix](https://github.com/socheatsok78/maintainers.nix) - @socheatsok78&#39;s maintainers list for nixpkgs and nurs
 - [socheatsok78/buildkit-nix-demo](https://github.com/socheatsok78/buildkit-nix-demo) - This is a demo project for showcasing the capabilities of socheatsok78/buildkit-nix. It demonstrates how to use BuildKit with Nix Flakes to build container images.
-- [socheatsok78/buildkit-nix](https://github.com/socheatsok78/buildkit-nix) - An experimental BuildKit frontend for building Nix Flakes as Dockerfile.
 
 #### 🚀 Latest releases I've contributed to
 
