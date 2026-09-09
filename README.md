@@ -12,11 +12,11 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (today)
 - [socheatsok78/docker-flake-metadata](https://github.com/socheatsok78/docker-flake-metadata) - GitHub Action to extract metadata from Nix Flakes for Docker Buildx Bake (1 day ago)
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) - @socheatsok78&#39;s Homebrew Tap (1 day ago)
 - [socheatsok78/gha-debug-docker](https://github.com/socheatsok78/gha-debug-docker) - Debugging GitHub Actions that use Docker containers (3 days ago)
 - [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (1 week ago)
-- [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
