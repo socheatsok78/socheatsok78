@@ -28,11 +28,11 @@
 
 #### 🚀 Latest releases I've contributed to
 
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.4.0](https://github.com/docker/bake-action/releases/tag/v7.4.0), today) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2026-09-08](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2026-09-08), 1 week ago) - @socheatsok78&#39;s Homebrew Tap
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) ([v1.1.0](https://github.com/socheatsok78/sentrytunnel/releases/tag/v1.1.0), 3 weeks ago) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.3](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.3), 2 months ago) - This GitHub Action installs and setup of a Flutter SDK
 - [dockerbakery/github-metadata-action](https://github.com/dockerbakery/github-metadata-action) ([v5.2](https://github.com/dockerbakery/github-metadata-action/releases/tag/v5.2), 2 months ago) - GitHub Metadata Action for Docker Buildx Bake.
-- [docker/bake-action](https://github.com/docker/bake-action) ([v7.3.0](https://github.com/docker/bake-action/releases/tag/v7.3.0), 2 months ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 
 #### My publicly-auditable identity
    - **Keybase**: [socheatsok78](https://keybase.io/socheatsok78)
