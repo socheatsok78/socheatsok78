@@ -28,7 +28,7 @@
 
 #### 🚀 Latest releases I've contributed to
 
-- [docker/bake-action](https://github.com/docker/bake-action) ([v7.4.0](https://github.com/docker/bake-action/releases/tag/v7.4.0), 2 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
+- [docker/bake-action](https://github.com/docker/bake-action) ([v7.4.0](https://github.com/docker/bake-action/releases/tag/v7.4.0), 3 days ago) - GitHub Action to use Docker Buildx Bake as a high-level build command
 - [socheatsok78/homebrew-tap](https://github.com/socheatsok78/homebrew-tap) ([dsd-fme-2026-09-08](https://github.com/socheatsok78/homebrew-tap/releases/tag/dsd-fme-2026-09-08), 1 week ago) - @socheatsok78&#39;s Homebrew Tap
 - [socheatsok78/sentrytunnel](https://github.com/socheatsok78/sentrytunnel) ([v1.1.0](https://github.com/socheatsok78/sentrytunnel/releases/tag/v1.1.0), 3 weeks ago) - A sentrytunnel is an HTTP endpoint that acts as a proxy between Sentry and your application.
 - [flutter-actions/setup-flutter](https://github.com/flutter-actions/setup-flutter) ([v4.3](https://github.com/flutter-actions/setup-flutter/releases/tag/v4.3), 2 months ago) - This GitHub Action installs and setup of a Flutter SDK
