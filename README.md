@@ -12,19 +12,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
+- [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (today)
 - [socheatsok78/portainer-marketplace](https://github.com/socheatsok78/portainer-marketplace) - A collections of Portainer App Templates for Homelab / personal-use (today)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (1 day ago)
 - [socheatsok78/cloud-images](https://github.com/socheatsok78/cloud-images) - A collections of documentations, repositories and tools for Cloud Images and Cloud Init (2 weeks ago)
 - [socheatsok78/nix-containers](https://github.com/socheatsok78/nix-containers) - A collections of Nix container images using BuildKit-Nix (3 weeks ago)
-- [socheatsok78/macos-sdks](https://github.com/socheatsok78/macos-sdks) - macOS SDKs for using with osxcross (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script.
 - [socheatsok78/nix-containers](https://github.com/socheatsok78/nix-containers) - A collections of Nix container images using BuildKit-Nix
 - [socheatsok78/gha-debug-docker](https://github.com/socheatsok78/gha-debug-docker) - Debugging GitHub Actions that use Docker containers
 - [socheatsok78/docker-flake-metadata](https://github.com/socheatsok78/docker-flake-metadata) - GitHub Action to extract metadata from Nix Flakes for Docker Buildx Bake
 - [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78 personal homebrew tap
-- [socheatsok78/maintainers.nix](https://github.com/socheatsok78/maintainers.nix) - @socheatsok78&#39;s maintainers list for nixpkgs and nurs
 
 #### 🚀 Latest releases I've contributed to
 
