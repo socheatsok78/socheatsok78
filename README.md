@@ -20,11 +20,11 @@
 
 #### 👨‍💻 Repositories I created recently
 
+- [socheatsok78/arcane-marketplace](https://github.com/socheatsok78/arcane-marketplace) - A collections of Arcane App Templates for Homelab / personal-use.
 - [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script.
 - [socheatsok78/nix-containers](https://github.com/socheatsok78/nix-containers) - A collections of Nix container images using BuildKit-Nix
 - [socheatsok78/gha-debug-docker](https://github.com/socheatsok78/gha-debug-docker) - Debugging GitHub Actions that use Docker containers
 - [socheatsok78/docker-flake-metadata](https://github.com/socheatsok78/docker-flake-metadata) - GitHub Action to extract metadata from Nix Flakes for Docker Buildx Bake
-- [socheatsok78/homebrew-socheatsok78](https://github.com/socheatsok78/homebrew-socheatsok78) - @socheatsok78 personal homebrew tap
 
 #### 🚀 Latest releases I've contributed to
 
