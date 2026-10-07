@@ -16,7 +16,7 @@
 - [socheatsok78/arcane-marketplace](https://github.com/socheatsok78/arcane-marketplace) - A collections of Arcane Templates for Homelab / personal-use. (1 day ago)
 - [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (2 days ago)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (4 days ago)
-- [socheatsok78/nix-containers](https://github.com/socheatsok78/nix-containers) - A collections of Nix container images using BuildKit-Nix (3 weeks ago)
+- [socheatsok78/cloud-images](https://github.com/socheatsok78/cloud-images) - A collections of documentations, repositories and tools for Cloud Images and Cloud Init (3 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
 
