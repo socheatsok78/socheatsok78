@@ -12,19 +12,19 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/nixberrypi](https://github.com/socheatsok78/nixberrypi) - NixOS on a Raspberry Pi (today)
+- [socheatsok78/docker-setup](https://github.com/socheatsok78/docker-setup) - A collections of Docker composes, k8s &amp; stacks for Homelab / personal-use. (today)
 - [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (today)
+- [socheatsok78/nixberrypi](https://github.com/socheatsok78/nixberrypi) - NixOS on a Raspberry Pi (today)
 - [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images. (1 day ago)
 - [socheatsok78/dockerfiles](https://github.com/socheatsok78/dockerfiles) - This is a collection of both miscellaneous development experiments and images I rely on for various things. (2 days ago)
-- [socheatsok78/docker-angie](https://github.com/socheatsok78/docker-angie) - A drop-in replacement container image to NGINX using ANGIE (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
 - [socheatsok78/arcane-marketplace](https://github.com/socheatsok78/arcane-marketplace) - A collections of Arcane Templates for Homelab / personal-use.
 - [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script.
+- [socheatsok78/docker-setup](https://github.com/socheatsok78/docker-setup) - A collections of Docker composes, k8s &amp; stacks for Homelab / personal-use.
 - [socheatsok78/nix-containers](https://github.com/socheatsok78/nix-containers) - A collections of Nix container images using BuildKit-Nix
 - [socheatsok78/gha-debug-docker](https://github.com/socheatsok78/gha-debug-docker) - Debugging GitHub Actions that use Docker containers
-- [socheatsok78/docker-flake-metadata](https://github.com/socheatsok78/docker-flake-metadata) - GitHub Action to extract metadata from Nix Flakes for Docker Buildx Bake
 
 #### 🚀 Latest releases I've contributed to
 
