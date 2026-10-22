@@ -12,7 +12,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78/arcane-marketplace](https://github.com/socheatsok78/arcane-marketplace) - A collections of Arcane Templates for Homelab / personal-use. (1 day ago)
+- [socheatsok78/arcane-marketplace](https://github.com/socheatsok78/arcane-marketplace) - A collections of Arcane Templates for Homelab / personal-use. (today)
 - [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (5 days ago)
 - [socheatsok78/docker-setup](https://github.com/socheatsok78/docker-setup) - A collections of Docker composes, k8s &amp; stacks for Homelab / personal-use. (6 days ago)
 - [socheatsok78/s6-nix-overlay](https://github.com/socheatsok78/s6-nix-overlay) - An experimental s6-overlay tooling for Nix that provides a wrapper to the nixpkgs.dockerTools to build s6-overlay images. (1 week ago)
