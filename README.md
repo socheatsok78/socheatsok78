@@ -12,10 +12,10 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (today)
-- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (today)
-- [socheatsok78/docker-coredns-prime](https://github.com/socheatsok78/docker-coredns-prime) - A customized CoreDNS tailored for @socheatsok78 (1 day ago)
-- [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (6 days ago)
+- [socheatsok78-lab/docker-hashicorp](https://github.com/socheatsok78-lab/docker-hashicorp) - A collections of HashiCorp container images built with a custom &#34;go-discover&#34; module. (1 day ago)
+- [socheatsok78/docker-caddy-prime](https://github.com/socheatsok78/docker-caddy-prime) - A customized Caddy tailored for @socheatsok78 (1 day ago)
+- [socheatsok78/docker-coredns-prime](https://github.com/socheatsok78/docker-coredns-prime) - A customized CoreDNS tailored for @socheatsok78 (2 days ago)
+- [socheatsok78/netbirdio-provisioner](https://github.com/socheatsok78/netbirdio-provisioner) - An automated provisioning service for Netbird self-hosted environments without using the getting-started.sh script. (1 week ago)
 - [socheatsok78/nur](https://github.com/socheatsok78/nur) - @socheatsok78&#39;s Nix User Repository (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
